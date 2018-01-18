@@ -1,0 +1,11 @@
+ Consulta de valor de Plantillas de empresas (Niss), realizada a Delt@ el 23 02 2010 14:20:22
+Datos provenientes del archivo: borrar2.txt
+_Em_Niss__Plantilla_
+111038933 -1
+111038934 -1
+111038935 -1
+111038938 -1
+
+Se consultaron 4 CCC.
+
+23 02 2010 14:20:27

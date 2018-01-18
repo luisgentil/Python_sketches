@@ -1,0 +1,1525 @@
+15 04 2010 11:59:12 Consulta de municipio de Centros Sanitarios, realizada a la web del SAS el 15 04 2010 11:59:40
+Datos provenientes del archivo: centros-SAS-consultar.txt
+__Id Centro__Municipio_
+Id;no encontrado!
+23635;Cacín
+23636;Alhama de Granada
+23637;Beas de Granada
+23638;Beas de Guadix
+23639;Benalúa de Guadix
+23640;Benalúa de las Villas
+23641;Benamaurel
+23642;Bérchules
+23643;Bubión
+23644;Busquístar
+23645;Vegas del Genil
+23646;Vegas del Genil
+23647;Vegas del Genil
+23648;Cuevas del Campo
+23649;Zagra
+23650;Pinar, El
+23651;Gabias, Las
+23652;Guájares, Los
+23653;Guájares, Los
+23654;Guájares, Los
+23655;Valle del Zalabí
+23656;Valle del Zalabí
+23657;Valle del Zalabí
+23658;Villamena
+23659;Villamena
+23660;Morelábor
+23661;Morelábor
+23662;Pinar, El
+23663;Arenas del Rey
+23664;Arenas del Rey
+23665;Cortes de Baza
+23666;Cortes de Baza
+23667;Cortes y Graena
+23668;Cortes y Graena
+23669;Cortes y Graena
+23670;Cortes y Graena
+23671;Cúllar
+23672;Cúllar
+23673;Huéscar
+23674;Huétor-Santillán
+23675;Huétor-Tájar
+23676;Huétor-Vega
+23677;Illora
+23678;Illora
+23679;Illora
+23680;Castril
+23681;Cenes de la Vega
+23682;Cijuela
+23683;Cogollos de Guadix
+23684;Cogollos Vega
+23685;Colomera
+23686;Colomera
+23687;Cortes de Baza
+23688;Cáñar
+23689;Capileira
+23690;Carataunas
+23691;Cástaras
+23692;Cástaras
+23693;Castilléjar
+23694;Castilléjar
+23696;Castril
+23697;Castril
+23698;Cádiar
+23699;Cádiar
+23700;Cájar
+23701;Cájar
+23702;Calicasas
+23703;Campotéjar
+23704;Caniles
+23705;Jayena
+23706;Jete
+23707;Jun
+23708;Juviles
+23709;Calahorra, La
+23710;Láchar
+23711;Láchar
+23712;Lanjarón
+23713;Lanteira
+23714;Lecrín
+23715;Lecrín
+23716;Lecrín
+23718;Illora
+23719;Illora
+23720;Illora
+23721;Itrabo
+23722;Iznalloz
+23723;Iznalloz
+23724;Iznalloz
+23725;Ferreira
+23726;Galera
+23727;Galera
+23728;Fonelas
+23729;Gobernador
+23730;Gójar
+23731;Freila
+23732;Gor
+23733;Fuente Vaqueros
+23734;Churriana de la Vega
+23735;Dehesas de Guadix
+23736;Darro
+23737;Deifontes
+23738;Diezma
+23739;Diezma
+23740;Dílar
+23741;Dólar
+23742;Dúdar
+23743;Dúrcal
+23744;Escúzar
+23745;Cúllar
+23746;Cúllar
+23747;Cúllar
+23748;Cúllar-Vega
+23749;Chauchina
+23750;Chauchina
+23751;Chauchina
+23752;Chimeneas
+23753;Chimeneas
+23754;Cortes de Baza
+23755;Cortes de Baza
+23756;Murtas
+23757;Nigüelas
+23758;Nívar
+23759;Ogíjares
+23760;Montefrío
+23761;Montefrío
+23762;Montejícar
+23763;Montillana
+23764;Moraleda de Zafayona
+23765;Moraleda de Zafayona
+23766;Motril
+23767;Malahá, La
+23768;Maracena
+23769;Marchal
+23770;Moclín
+23771;Moclín
+23772;Moclín
+23773;Moclín
+23774;Moclín
+23775;Moclín
+23776;Molvízar
+23777;Monachil
+23778;Monachil
+23779;Monachil
+23780;Loja
+23781;Loja
+23782;Loja
+23783;Lugros
+23784;Lújar
+23785;Lújar
+23787;Gualchos
+23788;Guadix
+23789;Guadix
+23790;Gualchos
+23791;Güéjar-Sierra
+23792;Güevéjar
+23793;Huélago
+23794;Huéneja
+23795;Lentejí
+23796;Lobras
+23797;Lobras
+23798;Loja
+23799;Loja
+23800;Loja
+23801;Loja
+23802;Loja
+23803;Gorafe
+23804;Granada
+23805;Granada
+23806;Granada
+23807;Granada
+23808;Granada
+23809;Granada
+23810;Granada
+23811;Granada
+23812;Granada
+23813;Granada
+23814;Granada
+23815;Granada
+23816;Granada
+23817;Granada
+23818;Granada
+23819;Granada
+23821;Guadahortuna
+23822;Guadix
+23823;Guadix
+23824;Guadix
+23825;Guadix
+23826;Guadix
+23827;Guadix
+23828;Pinos-Puente
+23829;Pinos-Puente
+23830;Pinos-Puente
+23831;Píñar
+23832;Píñar
+23833;Polícar
+23834;Polopos
+23835;Polopos
+23836;Pórtugos
+23837;Puebla de Don Fadrique
+23838;Puebla de Don Fadrique
+23839;Pulianas
+23840;Pampaneira
+23841;Pedro Martínez
+23842;Peligros
+23843;Peza, La
+23844;Pinos-Genil
+23845;Pinos-Puente
+23846;Pinos-Puente
+23847;Pinos-Puente
+23848;Orce
+23849;Órgiva
+23850;Órgiva
+23851;Órgiva
+23852;Otívar
+23853;Otura
+23854;Padul
+23855;Motril
+23856;Motril
+23857;Motril
+23858;Motril
+23859;Motril
+23860;Motril
+23861;Murtas
+23862;Cabezas de San Juan, Las
+23863;Cabezas de San Juan, Las
+23864;Camas
+23865;Camas
+23866;Camas
+23867;Camas
+23868;Campana, La
+23869;Cantillana
+23870;Carmona
+23871;Badolatosa
+23872;Benacazón
+23873;Bollullos de la Mitación
+23874;Bormujos
+23875;Brenes
+23876;Burguillos
+23877;Aznalcázar
+23878;Aznalcóllar
+23879;Badolatosa
+23880;Almadén de la Plata
+23881;Almensilla
+23882;Arahal, El
+23883;Algámitas
+23884;Alcalá de Guadaira
+23885;Alcalá de Guadaira
+23886;Alcalá de Guadaira
+23887;Alcalá del Río
+23888;Alcalá del Río
+23889;Alcalá del Río
+23890;Alcalá del Río
+23891;Estepa
+23892;Dos Hermanas
+23893;Ecija
+23894;Ecija
+23895;Ecija
+23896;Ecija
+23897;Espartinas
+23898;Dos Hermanas
+23899;Dos Hermanas
+23900;Dos Hermanas
+23901;Dos Hermanas
+23903;Constantina
+23904;Coria del Río
+23905;Coripe
+23906;Coronil, El
+23907;Corrales, Los
+23908;Castillo de las Guardas, El
+23909;Cazalla de la Sierra
+23910;Carrión de los Céspedes
+23911;Casariche
+23912;Castilblanco de los Arroyos
+23913;Castilleja de Guzmán
+23914;Castilleja de la Cuesta
+23915;Castilleja del Campo
+23916;Carmona
+23917;Marchena
+23918;Marinaleda
+23919;Marinaleda
+23920;Martín de la Jara
+23921;Molares, Los
+23922;Mairena del Alcor
+23923;Mairena del Aljarafe
+23924;Montellano
+23925;Morón de la Frontera
+23926;Aguadulce
+23927;Alanís
+23928;Albaida del Aljarafe
+23929;Lora del Río
+23930;Lora del Río
+23931;Luisiana, La
+23932;Luisiana, La
+23936;Madroño, El
+23938;Huévar
+23939;Lantejuela, La
+23940;Lebrija
+23941;Lora de Estepa
+23942;Guillena
+23943;Guillena
+23944;Guillena
+23945;Herrera
+23946;Fuentes de Andalucía
+23947;Garrobo, El
+23948;Gelves
+23949;Gerena
+23950;Gilena
+23951;Gines
+23952;Guadalcanal
+23953;Faraján
+23954;Frigiliana
+23955;Periana
+23956;Periana
+23957;Pizarra
+23958;Antequera
+23959;Antequera
+23960;Archez
+23961;Archidona
+23962;Archidona
+23963;Archidona
+23964;Ardales
+23965;Arenas
+23966;Arenas
+23967;Alozaina
+23968;Alpandeire
+23969;Antequera
+23970;Antequera
+23971;Antequera
+23972;Antequera
+23973;Antequera
+23974;Alora
+23975;Almáchar
+23976;Almargen
+23977;Almogía
+23978;Moclinejo
+23979;Canillas de Albaida
+23980;Cañete la Real
+23981;Carratraca
+23982;Cartajima
+23983;Cártama
+23984;Cártama
+23985;Canillas de Aceituno
+23986;Benaoján
+23987;Benarrabá
+23988;Borge, El
+23989;Burgo, El
+23990;Campillos
+23991;Canillas de Aceituno
+23992;Benalmádena
+23993;Benamargosa
+23994;Benamocarra
+23995;Benadalid
+23996;Benahavís
+23997;Benalauría
+23998;Benalmádena
+23999;Arriate
+24000;Atajate
+24001;Igualeja
+24002;Istán
+24003;Iznate
+24004;Jimera de Líbar
+24005;Jubrique
+24006;Júzcar
+24007;Macharaviaya
+24008;Macharaviaya
+24009;Málaga
+24010;Málaga
+24011;Fuengirola
+24012;Fuengirola
+24013;Fuente de Piedra
+24014;Gaucín
+24015;Genalguacil
+24016;Guaro
+24017;Humilladero
+24019;Estepona
+24020;Estepona
+24021;Cuevas del Becerro
+24022;Cuevas de San Marcos
+24023;Cútar
+24024;Cómpeta
+24025;Cortes de la Frontera
+24026;Cortes de la Frontera
+24027;Cortes de la Frontera
+24028;Cuevas Bajas
+24029;Comares
+24030;Colmenar
+24031;Casabermeja
+24032;Casarabonela
+24033;Casares
+24034;Coín
+24035;Canillas de Aceituno
+24036;Ibros
+24037;Iruela, La
+24038;Iruela, La
+24039;Iznatoraf
+24040;Jabalquinto
+24041;Jaén
+24043;Higuera de Arjona
+24044;Higuera de Calatrava
+24045;Hinojares
+24046;Hornos
+24047;Hornos
+24048;Huelma
+24049;Huelma
+24050;Huesa
+24051;Fuensanta de Martos
+24052;Fuerte del Rey
+24053;Génave
+24054;Guardia de Jaén, La
+24055;Guarromán
+24056;Espeluy
+24057;Espeluy
+24058;Frailes
+24059;Cazorla
+24060;Cazorla
+24061;Chiclana de Segura
+24062;Chiclana de Segura
+24063;Chiclana de Segura
+24064;Chilluévar
+24065;Escañuela
+24066;Carolina, La
+24067;Castellar
+24068;Castillo de Locubín
+24069;Castillo de Locubín
+24070;Santisteban del Puerto
+24071;Santo Tomé
+24072;Segura de la Sierra
+24073;Quesada
+24074;Quesada
+24075;Quesada
+24076;Peal de Becerro
+24077;Pegalajar
+24078;Porcuna
+24079;Pozo Alcón
+24080;Pozo Alcón
+24081;Puente de Génave
+24082;Puente de Génave
+24083;Puerta de Segura, La
+24084;Puerta de Segura, La
+24085;Montizón
+24086;Montizón
+24087;Montizón
+24088;Navas de San Juan
+24089;Noalejo
+24090;Noalejo
+24091;Orcera
+24092;Peal de Becerro
+24093;Peal de Becerro
+24094;Lopera
+24095;Lupión
+24096;Lupión
+24097;Mancha Real
+24098;Mancha Real
+24099;Marmolejo
+24100;Martos
+24101;Martos
+24102;Martos
+24103;Martos
+24104;Mengíbar
+24105;Jaén
+24106;Jaén
+24107;Jaén
+24108;Jaén
+24109;Jaén
+24110;Jaén
+24111;Jamilena
+24112;Jimena
+24113;Baeza
+24114;Jódar
+24115;Larva
+24116;Linares
+24117;Linares
+24118;Linares
+24119;Linares
+24120;Santiago-Pontones
+24121;Santiago-Pontones
+24122;Villatorres
+24123;Villatorres
+24124;Villatorres
+24125;Santiago-Pontones
+24126;Villacarrillo
+24127;Villanueva de la Reina
+24128;Villanueva de la Reina
+24129;Villanueva del Arzobispo
+24130;Villardompardo
+24131;Villares, Los
+24132;Villarrodrigo
+24133;Villarrodrigo
+24134;Cárcheles, Los
+24135;Cárcheles, Los
+24136;Bedmar y Garcíez
+24137;Bedmar y Garcíez
+24138;Úbeda
+24139;Úbeda
+24140;Valdepeñas de Jaén
+24141;Torreblascopedro
+24142;Vilches
+24143;Vilches
+24144;Villacarrillo
+24145;Villacarrillo
+24146;Villacarrillo
+24147;Torreblascopedro
+24148;Torredelcampo
+24149;Torredonjimeno
+24150;Torreperogil
+24151;Torres
+24152;Torres de Albanchez
+24153;Úbeda
+24154;Úbeda
+24155;Úbeda
+24156;Segura de la Sierra
+24157;Segura de la Sierra
+24158;Segura de la Sierra
+24159;Segura de la Sierra
+24160;Segura de la Sierra
+24161;Segura de la Sierra
+24162;Siles
+24163;Sorihuela del Guadalimar
+24164;Torreblascopedro
+24165;Rus
+24166;Rus
+24167;Sabiote
+24168;Santa Elena
+24169;Santiago de Calatrava
+24170;Alcaudete
+24171;Alcaudete
+24172;Aldeaquemada
+24173;Andújar
+24174;Andújar
+24175;Andújar
+24176;Andújar
+24177;Andújar
+24178;Andújar
+24179;Arjona
+24180;Alcalá la Real
+24181;Alcalá la Real
+24182;Alcalá la Real
+24183;Alcalá la Real
+24184;Alcaudete
+24185;Alcaudete
+24186;Jimena
+24187;Alcalá la Real
+24188;Alcalá la Real
+24189;Alcalá la Real
+24190;Alcalá la Real
+24191;Santiago-Pontones
+24192;Santiago-Pontones
+24193;Santiago-Pontones
+24194;Paymogo
+24195;Puebla de Guzmán
+24196;Puebla de Guzmán
+24197;Puerto Moral
+24198;Punta Umbría
+24199;Rociana del Condado
+24200;Rosal de la Frontera
+24201;San Bartolomé de la Torre
+24202;San Juan del Puerto
+24203;Sanlúcar de Guadiana
+24204;Zalamea la Real
+24205;Moguer
+24206;Moguer
+24207;Nava, La
+24208;Nerva
+24209;Niebla
+24210;Palma del Condado, La
+24211;Palos de la Frontera
+24212;Jabugo
+24213;Jabugo
+24214;Lepe
+24215;Lepe
+24216;Linares de la Sierra
+24217;Lucena del Puerto
+24218;Manzanilla
+24219;Marines, Los
+24220;Minas de Riotinto
+24221;Higuera de la Sierra
+24222;Hinojales
+24223;Hinojos
+24224;Huelva
+24226;Huelva
+24227;Huelva
+24228;Huelva
+24229;Huelva
+24230;Huelva
+24231;Isla Cristina
+24232;Isla Cristina
+24233;Jabugo
+24234;Aljaraque
+24235;Beas
+24236;Beas
+24237;Berrocal
+24238;Bollullos Par del Condado
+24239;Bonares
+24240;Ayamonte
+24241;Cabezas Rubias
+24242;Cala
+24243;Ayamonte
+24245;Aroche
+24246;Aroche
+24247;Arroyomolinos de León
+24248;Ayamonte
+24249;Alosno
+24250;Alosno
+24251;Aracena
+24252;Almonaster la Real
+24253;Almonte
+24254;Almonte
+24255;Almonte
+24256;Villarrasa
+24257;Zalamea la Real
+24258;Zalamea la Real
+24259;Villanueva de las Cruces
+24260;Zalamea la Real
+24261;Zalamea la Real
+24262;Zalamea la Real
+24263;Zalamea la Real
+24264;Zalamea la Real
+24265;Villanueva de los Castillejos
+24266;Zufre
+24267;Santa Ana la Real
+24268;San Silvestre de Guzmán
+24269;Santa Bárbara de Casa
+24270;Santa Olalla de Cala
+24271;Santa Ana la Real
+24272;Trigueros
+24273;Valdelarco
+24274;Valverde del Camino
+24275;Villablanca
+24276;Villalba del Alcor
+24277;Paterna del Campo
+24278;Córdoba
+24279;Córdoba
+24282;Córdoba
+24283;Córdoba
+24284;Córdoba
+24285;Córdoba
+24286;Córdoba
+24287;Córdoba
+24288;Córdoba
+24290;Córdoba
+24292;Córdoba
+24293;Córdoba
+24294;Córdoba
+24295;Córdoba
+24296;Córdoba
+24297;Córdoba
+24298;Conquista
+24299;Córdoba
+24300;Córdoba
+24301;Carpio, El
+24302;Carpio, El
+24303;Castro del Río
+24304;Cabra
+24305;Cañete de las Torres
+24306;Carcabuey
+24307;Cardeña
+24308;Cardeña
+24309;Carlota, La
+24310;Carlota, La
+24311;Belmez
+24312;Belmez
+24313;Belmez
+24314;Benamejí
+24315;Blázquez
+24316;Lucena
+24317;Luque
+24318;Montalbán de Córdoba
+24319;Montemayor
+24320;Lucena
+24321;Lucena
+24322;Iznájar
+24323;Iznájar
+24324;Hornachuelos
+24325;Fuente-Tójar
+24326;Fuente-Tójar
+24327;Granjuela, La
+24328;Guadalcázar
+24329;Guijo
+24330;Fuente Palmera
+24331;Fuente Palmera
+24332;Fuente Palmera
+24333;Fuente Palmera
+24334;Fuente Obejuna
+24335;Fuente Obejuna
+24336;Fuente Obejuna
+24337;Fuente Obejuna
+24338;Fuente Obejuna
+24339;Fuente Obejuna
+24340;Fuente Obejuna
+24341;Fuente Obejuna
+24342;Valsequillo
+24343;Victoria, La
+24344;Villa del Río
+24345;Villafranca de Córdoba
+24346;Villaharta
+24347;Rute
+24348;Rute
+24349;San Sebastián de los Ballesteros
+24350;Santaella
+24351;Santaella
+24352;Santaella
+24353;Puente Genil
+24354;Rambla, La
+24355;Priego de Córdoba
+24356;Priego de Córdoba
+24357;Priego de Córdoba
+24358;Priego de Córdoba
+24359;Priego de Córdoba
+24360;Priego de Córdoba
+24361;Pedro Abad
+24362;Pedroche
+24363;Peñarroya-Pueblonuevo
+24364;Priego de Córdoba
+24365;Posadas
+24366;Pozoblanco
+24367;Palma del Río
+24368;Obejo
+24369;Montoro
+24370;Monturque
+24371;Moriles
+24372;Nueva Carteya
+24373;Palenciana
+24374;Montilla
+24375;Córdoba
+24376;Doña Mencía
+24377;Dos Torres
+24378;Encinas Reales
+24379;Espejo
+24380;Espiel
+24381;Fernán Núñez
+24382;Fuente la Lancha
+24383;Fuente Obejuna
+24384;Fuente Obejuna
+24385;Fuente Obejuna
+24386;Fuente Obejuna
+24387;Fuente Obejuna
+24388;Fuente Obejuna
+24389;Fuente Obejuna
+24390;Villaralto
+24391;Villaviciosa de Córdoba
+24392;Villaviciosa de Córdoba
+24393;Viso, El
+24394;Zuheros
+24395;Villanueva de Córdoba
+24396;Villanueva del Duque
+24397;Villanueva del Rey
+24398;Santa Eufemia
+24399;Torrecampo
+24400;Valenzuela
+24401;Almodóvar del Río
+24402;Añora
+24403;Baena
+24404;Baena
+24405;Belalcázar
+24406;Alcaracejos
+24407;Adamuz
+24408;Adamuz
+24409;Aguilar de la Frontera
+24410;Arenas del Rey
+24411;Alhama de Granada
+24412;Armilla
+24413;Atarfe
+24414;Baza
+24415;Baza
+24416;Baza
+24417;Alhama de Granada
+24418;Alhama de Granada
+24419;Alhendín
+24420;Alicún de Ortega
+24421;Almegíjar
+24422;Almegíjar
+24423;Almuñécar
+24424;Almuñécar
+24425;Almuñécar
+24426;Almuñécar
+24427;Gabias, Las
+24428;Gabias, Las
+24429;Tahá de Pitres, La
+24430;Valle, El
+24431;Jerez de la Frontera
+24432;Jerez de la Frontera
+24433;Jerez de la Frontera
+24434;Chipiona
+24435;Espera
+24436;Gastor, El
+24437;Grazalema
+24438;Grazalema
+24439;Jerez de la Frontera
+24440;Jerez de la Frontera
+24441;Castellar de la Frontera
+24442;Conil de la Frontera
+24443;Conil de la Frontera
+24444;Chiclana de la Frontera
+24445;Chiclana de la Frontera
+24446;Barbate
+24447;Barrios, Los
+24448;Barrios, Los
+24449;Barrios, Los
+24450;Benaocaz
+24451;Bornos
+24452;Bornos
+24453;Bosque, El
+24454;Cádiz
+24455;Cádiz
+24456;Cádiz
+24457;Cádiz
+24458;Cádiz
+24459;Cádiz
+24460;Cádiz
+24463;Castellar de la Frontera
+24464;Arcos de la Frontera
+24465;Barbate
+24466;Alcalá de los Gazules
+24467;Alcalá del Valle
+24468;Algar
+24469;Algeciras
+24470;Algeciras
+24471;Algeciras
+24472;Algeciras
+24473;Algeciras
+24474;Algeciras
+24475;Algeciras
+24476;Algeciras
+24477;Algodonales
+24478;Algodonales
+24479;Arcos de la Frontera
+24480;Arcos de la Frontera
+24481;Bujalance
+24482;Almedinilla
+24483;Almodóvar del Río
+24484;Puerto Real
+24485;Puerto Real
+24486;Puerto Real
+24487;Medina-Sidonia
+24488;Olvera
+24489;Paterna de Rivera
+24490;Prado del Rey
+24492;Puerto de Santa María, El
+24493;Puerto de Santa María, El
+24494;Jerez de la Frontera
+24495;Jerez de la Frontera
+24496;Jerez de la Frontera
+24497;Jerez de la Frontera
+24498;Jimena de la Frontera
+24499;Jimena de la Frontera
+24500;Jimena de la Frontera
+24501;Línea de la Concepción, La
+24502;Línea de la Concepción, La
+24503;Línea de la Concepción, La
+24504;Jerez de la Frontera
+24505;Jerez de la Frontera
+24506;Jerez de la Frontera
+24507;Jerez de la Frontera
+24508;Jerez de la Frontera
+24509;Jerez de la Frontera
+24510;Jerez de la Frontera
+24511;Jerez de la Frontera
+24512;Jerez de la Frontera
+24514;Jerez de la Frontera
+24515;Jerez de la Frontera
+24516;Vícar
+24517;Benalup
+24518;Zahara de la Sierra
+24519;San José del Valle
+24520;Mojonera, La
+24521;Vejer de la Frontera
+24522;Villaluenga del Rosario
+24523;Villamartín
+24524;Tarifa
+24525;Tarifa
+24526;Tarifa
+24527;Torre-Alháquime
+24528;Trebujena
+24529;Ubrique
+24530;San Roque
+24531;San Roque
+24532;San Roque
+24533;San Roque
+24534;Setenil
+24535;Tarifa
+24536;Sanlúcar de Barrameda
+24537;Sanlúcar de Barrameda
+24538;Sanlúcar de Barrameda
+24539;San Roque
+24540;San Roque
+24541;San Roque
+24542;San Roque
+24543;San Roque
+24544;Puerto Serrano
+24545;Rota
+24546;San Fernando
+24547;San Fernando
+24548;San Fernando
+24549;Sanlúcar de Barrameda
+24550;Sanlúcar de Barrameda
+24551;Tahal
+24552;Terque
+24553;Tíjola
+24554;Tíjola
+24555;Tahal
+24556;Turre
+24557;Turrillas
+24558;Uleila del Campo
+24559;Fines
+24560;Velefique
+24561;Vélez Blanco
+24562;Vélez Blanco
+24563;Vélez Rubio
+24564;Vera
+24565;Viator
+24566;Vícar
+24567;Vícar
+24568;Vícar
+24569;Vícar
+24570;Vícar
+24571;Zurgena
+24572;Zurgena
+24573;Tres Villas, Las
+24574;Tres Villas, Las
+24575;Tres Villas, Las
+24576;Ejido, El
+24577;Ejido, El
+24578;Ejido, El
+24579;Ejido, El
+24580;Ejido, El
+24581;Ejido, El
+24582;Ejido, El
+24583;Ejido, El
+24584;Ejido, El
+24585;Pulpí
+24586;Pulpí
+24587;Pulpí
+24588;Pulpí
+24589;Purchena
+24590;Purchena
+24591;Rágol
+24592;Rioja
+24593;Rioja
+24594;Roquetas de Mar
+24595;Roquetas de Mar
+24596;Roquetas de Mar
+24597;Roquetas de Mar
+24598;Roquetas de Mar
+24599;Roquetas de Mar
+24600;Santa Cruz
+24601;Santa Fe de Mondújar
+24602;Senés
+24603;Serón
+24604;Sierro
+24605;Somontín
+24606;Sorbas
+24607;Sorbas
+24608;Sorbas
+24609;Sorbas
+24610;Sorbas
+24611;Suflí
+24612;Tabernas
+24613;Taberno
+24614;Níjar
+24615;Níjar
+24616;Níjar
+24617;Níjar
+24618;Níjar
+24619;Níjar
+24620;Níjar
+24621;Níjar
+24622;Níjar
+24623;Níjar
+24624;Níjar
+24625;Níjar
+24626;Ohanes
+24627;Olula de Castro
+24628;Olula del Río
+24629;Oria
+24630;Padules
+24631;Partaloa
+24632;Paterna del Río
+24633;Pechina
+24634;Pechina
+24635;Pulpí
+24636;Pulpí
+24637;Huércal-Overa
+24638;Huércal-Overa
+24639;Huércal-Overa
+24640;Illar
+24641;Instinción
+24642;Macael
+24643;Laujar de Andarax
+24644;Líjar
+24645;Lubrín
+24646;Lucainena de las Torres
+24647;Lucainena de las Torres
+24648;Lúcar
+24649;Lúcar
+24650;Macael
+24651;María
+24652;Mojácar
+24653;Nacimiento
+24654;Níjar
+24655;Níjar
+24656;Níjar
+24657;Níjar
+24658;Cuevas del Almanzora
+24659;Cuevas del Almanzora
+24660;Cuevas del Almanzora
+24661;Cuevas del Almanzora
+24662;Cuevas del Almanzora
+24663;Cuevas del Almanzora
+24664;Chercos
+24665;Vélez Rubio
+24666;Chirivel
+24667;Dalías
+24668;Enix
+24669;Felix
+24670;Fines
+24671;Fiñana
+24672;Fondón
+24673;Fondón
+24674;Fondón
+24675;Gádor
+24676;Gallardos, Los
+24677;Garrucha
+24678;Gérgal
+24679;Gérgal
+24680;Gérgal
+24681;Huécija
+24682;Huércal de Almería
+24683;Huércal de Almería
+24684;Huércal-Overa
+24685;Huércal-Overa
+24686;Bacares
+24687;Bayárcal
+24688;Bayarque
+24689;Castaño del Robledo
+24691;Almonaster la Real
+24692;Jerez del Marquesado
+24693;Granada
+24694;Puerto de Santa María, El
+24695;Vera
+24696;Beires
+24697;Benahadux
+24698;Benahadux
+24699;Benitagla
+24700;Benizalón
+24701;Benizalón
+24702;Bentarique
+24703;Berja
+24704;Berja
+24705;Canjáyar
+24706;Cantoria
+24707;Cantoria
+24708;Carboneras
+24709;Carboneras
+24710;Carboneras
+24711;Carboneras
+24712;Carboneras
+24713;Castro de Filabres
+24714;Armuña de Almanzora
+24715;Cóbdar
+24716;Adra
+24717;Abla
+24718;Abrucena
+24719;Alboloduy
+24720;Albox
+24721;Albox
+24722;Alcolea
+24723;Alcóntar
+24724;Alcóntar
+24725;Alcudia de Monteagud
+24726;Alhabia
+24727;Alhama de Almería
+24728;Alicún
+24729;Almería
+24730;Almería
+24731;Almería
+24732;Almería
+24733;Almería
+24734;Almería
+24735;Almería
+24736;Almería
+24737;Almería
+24738;Almería
+24739;Almería
+24742;Almería
+24743;Almería
+24744;Almería
+24745;Almería
+24746;Almería
+24747;Almería
+24748;Almería
+24749;Níjar
+24750;Níjar
+24751;Almócita
+24752;Alsodux
+24753;Antas
+24754;Antas
+24755;Arboleas
+24756;Adra
+24757;Aljaraque
+24758;Almendro, El
+24759;Almonaster la Real
+24760;Almonaster la Real
+24761;Almonaster la Real
+24762;Alájar
+24763;Escacena del Campo
+24764;Fuenteheridos
+24765;Galaroza
+24766;Gibraleón
+24767;Granada de Riotinto, La
+24768;Granado, El
+24769;Chucena
+24770;Corteconcepción
+24771;Encinasola
+24772;Cortegana
+24773;Cortegana
+24774;Cortegana
+24775;Cortelazor
+24776;Cumbres de En medio
+24777;Cumbres de San Bartolomé
+24778;Cumbres Mayores
+24779;Cerro del Andévalo, El
+24780;Calañas
+24781;Calañas
+24782;Cerro del Andévalo, El
+24783;Calañas
+24784;Calañas
+24785;Campillo, El
+24786;Campillo, El
+24787;Campofrío
+24788;Cañaveral de León
+24789;Cartaya
+24790;Cartaya
+24791;Adra
+24792;Albanchez
+24793;Adra
+24794;Aljaraque
+24795;Valle, El
+24796;Valle, El
+24797;Nevada
+24798;Nevada
+24799;Nevada
+24800;Alpujarra de la Sierra
+24801;Alpujarra de la Sierra
+24802;Zújar
+24803;Tahá de Pitres, La
+24804;Tahá de Pitres, La
+24805;Ventas de Huelma
+24806;Villanueva de las Torres
+24807;Villanueva Mesía
+24808;Víznar
+24809;Alhama de Granada
+24810;Zafarraya
+24811;Zubia, La
+24812;Ventas de Huelma
+24813;Turón
+24814;Ugíjar
+24815;Ugíjar
+24816;Ugíjar
+24817;Válor
+24818;Válor
+24819;Válor
+24820;Vélez de Benaudalla
+24821;Torvizcón
+24822;Trevélez
+24823;Salobreña
+24824;Santa Cruz del Comercio
+24825;Santa Cruz del Comercio
+24826;Santa Fé
+24827;Santa Fé
+24828;Santa Fé
+24829;Soportújar
+24830;Sorvilán
+24831;Sorvilán
+24832;Torre-Cardela
+24833;Rubite
+24834;Salar
+24835;Salobreña
+24836;Salobreña
+24837;Purrullena
+24838;Purrullena
+24839;Quéntar
+24840;Quéntar
+24841;Alhama de Granada
+24842;Albuñol
+24843;Albuñuelas
+24844;Aldeire
+24845;Alfacar
+24846;Algarinejo
+24847;Algarinejo
+24848;Algarinejo
+24849;Albuñol
+24850;Albuñol
+24851;Albolote
+24852;Albondón
+24853;Albuñán
+24854;Albuñol
+24855;Agrón
+24856;Alamedilla
+24857;Albolote
+24858;Cazalilla
+24859;Cazorla
+24860;Cabra de Santo Cristo
+24861;Cambil
+24862;Cambil
+24863;Campillo de Arenas
+24864;Canena
+24865;Carboneros
+24866;Carolina, La
+24867;Baños de la Encina
+24868;Arroyo del Ojanco
+24869;Beas de Segura
+24870;Beas de Segura
+24871;Beas de Segura
+24872;Begíjar
+24873;Bélmez de la Moraleda
+24874;Benatae
+24875;Arjonilla
+24876;Arquillos
+24877;Arquillos
+24878;Baeza
+24879;Baeza
+24880;Baeza
+24881;Bailén
+24882;Moclinejo
+24883;Mollina
+24884;Monda
+24885;Montejaque
+24886;Nerja
+24887;Nerja
+24888;Ojén
+24889;Parauta
+24890;Marbella
+24891;Marbella
+24892;Mijas
+24893;Mijas
+24894;Mijas
+24895;Málaga
+24896;Málaga
+24897;Málaga
+24898;Málaga
+24899;Málaga
+24900;Málaga
+24901;Málaga
+24902;Málaga
+24903;Málaga
+24904;Málaga
+24905;Málaga
+24906;Málaga
+24907;Málaga
+24908;Málaga
+24910;Málaga
+24911;Málaga
+24912;Málaga
+24913;Málaga
+24914;Málaga
+24915;Málaga
+24916;Málaga
+24917;Málaga
+24918;Manilva
+24919;Manilva
+24920;Marbella
+24921;Marbella
+24922;Marbella
+24923;Alhaurín el Grande
+24924;Alfarnate
+24925;Alfarnatejo
+24926;Algarrobo
+24927;Algarrobo
+24928;Algatocín
+24929;Alhaurín de la Torre
+24930;Alameda
+24931;Alcaucín
+24932;Villanueva del Trabuco
+24933;Villanueva de Tapia
+24934;Viñuela
+24935;Viñuela
+24936;Yunquera
+24937;Torremolinos
+24938;Torremolinos
+24939;Vélez-Málaga
+24940;Vélez-Málaga
+24941;Vélez-Málaga
+24942;Vélez-Málaga
+24943;Vélez-Málaga
+24944;Villanueva de Algaidas
+24945;Villanueva del Rosario
+24946;Torrox
+24947;Totalán
+24948;Valle de Abdalajís
+24949;Vélez-Málaga
+24950;Vélez-Málaga
+24951;Vélez-Málaga
+24952;Vélez-Málaga
+24953;Sayalonga
+24954;Sayalonga
+24955;Sedella
+24956;Sierra de Yeguas
+24957;Sierra de Yeguas
+24958;Teba
+24959;Tolox
+24960;Torrox
+24961;Pújerra
+24962;Rincón de la Victoria
+24963;Rincón de la Victoria
+24964;Rincón de la Victoria
+24965;Riogordo
+24966;Ronda
+24967;Ronda
+24968;Ronda
+24969;Ronda
+24970;Salares
+24971;Alcolea del Río
+24972;Algaba, La
+24973;Navas de la Concepción, Las
+24974;Olivares
+24975;Osuna
+24976;Osuna
+24977;Palacios y Villafranca, Los
+24978;Palacios y Villafranca, Los
+24979;Palacios y Villafranca, Los
+24980;Palomares del Río
+24981;Villaverde del Río
+24982;Viso del Alcor, El
+24983;Cañada del Rosal
+24984;Villafranco del Guadalquivir
+24985;Cuervo, El
+24986;Valencina de la Concepción
+24987;Villamanrique de la Condesa
+24988;Villanueva del Ariscal
+24989;Villanueva del Río y Minas
+24990;Villanueva del Río y Minas
+24991;Villanueva de San Juan
+24992;Utrera
+24993;Utrera
+24994;Utrera
+24995;Utrera
+24996;Utrera
+24997;Utrera
+24998;San Nicolás del Puerto
+24999;San Nicolás del Puerto
+25000;Santiponce
+25001;Saucejo, El
+25002;Sevilla
+25003;Sevilla
+25004;Sevilla
+25006;Sevilla
+25007;Sevilla
+25008;Sevilla
+25009;Sevilla
+25010;Sevilla
+25011;Sevilla
+25012;Sevilla
+25013;Sevilla
+25014;Sevilla
+25015;Sevilla
+25016;Sevilla
+25017;Sevilla
+25018;Sevilla
+25019;Sevilla
+25020;Sevilla
+25021;Sevilla
+25022;Sevilla
+25023;Sevilla
+25024;Sevilla
+25025;Sevilla
+25026;Sevilla
+25028;Sevilla
+25030;Sevilla
+25032;Sevilla
+25033;Sevilla
+25034;Sevilla
+25035;Sevilla
+25036;Sevilla
+25037;Tocina
+25038;Tocina
+25039;Tomares
+25040;Umbrete
+25041;Utrera
+25042;Ronquillo, El
+25043;Rubio, El
+25044;Salteras
+25045;San Juan de Aznalfarache
+25046;Sanlúcar la Mayor
+25047;Rinconada, La
+25048;Rinconada, La
+25049;Roda de Andalucía, La
+25050;Paradas
+25051;Pedrera
+25052;Pedroso, El
+25053;Peñaflor
+25054;Pilas
+25055;Pruna
+25056;Puebla de Cazalla, La
+25057;Puebla de los Infantes, La
+25058;Puebla del Río, La
+25059;Real de la Jara, El
+25227;Santiago-Pontones
+25230;Jerez de la Frontera
+25236;Córdoba
+25237;Sevilla
+25239;Marmolejo
+25240;Roquetas de Mar
+25241;Ejido, El
+25242;Morón de la Frontera
+25248;Albox
+25249;Albox
+25250;Oria
+25251;Berja
+25252;Lubrín
+25253;Laujar de Andarax
+25254;Lubrín
+25255;Níjar
+25256;Lubrín
+25257;Lubrín
+25258;Mojácar
+25259;Vélez Rubio
+25260;Huércal de Almería
+25261;Lubrín
+25262;Lubrín
+25263;Lubrín
+25264;Puerto de Santa María, El
+25265;Fuente Palmera
+25266;Hinojosa del Duque
+25267;Gor
+25268;Gor
+25269;Jete
+25270;Peza, La
+25271;Huéneja
+25273;Segura de la Sierra
+25277;Martos
+25329;Puerto de Santa María, El
+25330;Puerto de Santa María, El
+25340;Vejer de la Frontera
+25341;Vejer de la Frontera
+25342;Medina-Sidonia
+25347;Huelva
+25348;Baza
+25349;Carolina, La
+25350;Níjar
+25351;Alquife
+25352;Huelva
+25353;Alcalá la Real
+25354;Jaén
+25355;Sevilla
+25356;Lecrín
+25357;Lecrín
+25358;Sevilla
+25359;Villafranco del Guadalquivir
+25360;Cardeña
+25361;Minas de Riotinto
+25362;Moraleda de Zafayona
+25363;Córdoba
+25389;Jerez de la Frontera
+25390;Jerez de la Frontera
+25391;Dos Hermanas
+25392;Dos Hermanas
+25393;Atarfe
+25394;Castilléjar
+25397;Quesada
+25398;Motril
+25399;Almería
+25400;Roquetas de Mar
+25402;Lucena
+25403;Humilladero
+25404;Cuevas del Campo
+25405;Benalmádena
+25407;Algeciras
+25408;Estepona
+25409;Granada
+25410;Granada
+25411;Úbeda
+25412;San Fernando
+25413;Alcalá la Real
+25414;Alcalá la Real
+25415;Andújar
+25416;Puente Genil
+25417;Alcalá la Real
+25418;Córdoba
+25419;Punta Umbría
+25424;Rute
+25425;Vícar
+25426;Vícar
+25427;Palacios y Villafranca, Los
+25428;Iruela, La
+25429;Sevilla
+25430;Barbate
+25431;Algeciras
+25432;Coria del Río
+25433;Málaga
+25434;Gallardos, Los
+25435;Málaga
+25454;Sevilla
+25455;Granada
+25456;Almonaster la Real
+25457;Castellar de la Frontera
+25458;Puerto Real
+25459;Rinconada, La
+25472;Almería
+25474;Málaga
+25475;Cañete la Real
+25478;Málaga
+25479;Vera
+25480;Montillana
+25481;Antequera
+25482;Pinar, El
+25483;Chipiona
+25484;Sevilla
+25485;Sevilla
+25486;Arcos de la Frontera
+25487;Ronda
+25515;Hinojares
+25518;Málaga
+25519;Sevilla
+25534;Sevilla
+25544;Linares
+25545;Córdoba
+25546;Almería
+
+Se consultaron 1518 establecimientos de AP.
+
+15 04 2010 12:12:42

@@ -1,0 +1,1518 @@
+Id Centro -5	CAP_NOMBRE     Provincia	Total
+23635	Cacín	Granada	1
+23636	Turro	Granada	1
+23637	Beas de Granada	Granada	1
+23638	Beas de Guadix	Granada	1
+23639	Benalúa de Guadix	Granada	1
+23640	Benalúa de las Villas	Granada	1
+23641	Benamaurel	Granada	1
+23642	Bérchules	Granada	1
+23643	Bubión	Granada	1
+23644	Busquístar	Granada	1
+23645	Ambroz	Granada	1
+23646	Belicena	Granada	1
+23647	Purchil	Granada	1
+23648	Cuevas del Campo	Granada	1
+23649	Zagra	Granada	1
+23650	Pinos del Valle (El Pinar)	Granada	1
+23651	Híjar (Las Gabias)	Granada	1
+23652	Guájar Alto	Granada	1
+23653	Guájar Faragüit	Granada	1
+23654	Guájar Fondón	Granada	1
+23655	Alcudia	Granada	1
+23656	Charches	Granada	1
+23657	Esfiliana	Granada	1
+23658	Villamena	Granada	1
+23659	Cozvíjar (Villamena)	Granada	1
+23660	Laborcillas	Granada	1
+23661	Moreda	Granada	1
+23662	Izbor (El Pinar)	Granada	1
+23663	Arenas del Rey	Granada	1
+23664	Fornes	Granada	1
+23665	Los Laneros	Granada	1
+23666	La Teja	Granada	1
+23667	Los Baños	Granada	1
+23668	Cortes	Granada	1
+23669	Graena	Granada	1
+23670	Lopera	Granada	1
+23671	Cúllar	Granada	1
+23672	El Margen	Granada	1
+23673	Huéscar	Granada	1
+23674	Huétor-Santillán	Granada	1
+23675	Huétor-Tájar	Granada	1
+23676	Huétor Vega	Granada	1
+23677	Alomartes	Granada	1
+23678	Bracaná	Granada	1
+23679	Escoznar	Granada	1
+23680	Fátima	Granada	1
+23681	Cenes de la Vega	Granada	1
+23682	Cijuela	Granada	1
+23683	Cogollos Guadix	Granada	1
+23684	Cogollos Vega	Granada	1
+23685	Cerro Cauro	Granada	1
+23686	Colomera	Granada	1
+23687	Campo Cámara	Granada	1
+23688	Cáñar	Granada	1
+23689	Capileira	Granada	1
+23690	Carataunas	Granada	1
+23691	Cástaras	Granada	1
+23692	Nieles	Granada	1
+23693	Los Carriones	Granada	1
+23694	Castilléjar	Granada	1
+23696	Las Almontaras	Granada	1
+23697	Castril	Granada	1
+23698	Cádiar	Granada	1
+23699	Yátor	Granada	1
+23700	Bellavista	Granada	1
+23701	Cájar	Granada	1
+23702	Calicasas	Granada	1
+23703	Campotéjar	Granada	1
+23704	Caniles	Granada	1
+23705	Jayena	Granada	1
+23706	Jete	Granada	1
+23707	Jun	Granada	1
+23708	Juviles	Granada	1
+23709	La Calahorra	Granada	1
+23710	Láchar	Granada	1
+23711	Peñuelas	Granada	1
+23712	Lanjarón	Granada	1
+23713	Lanteira	Granada	1
+23714	Acequias	Granada	1
+23715	Béznar	Granada	1
+23716	Talará (Lecrín)	Granada	1
+23718	Obéilar	Granada	1
+23719	Íllora	Granada	1
+23720	Tocón	Granada	1
+23721	Itrabo	Granada	1
+23722	Dehesas Viejas	Granada	1
+23723	Domingo Pérez	Granada	1
+23724	Iznalloz	Granada	1
+23725	Ferreira	Granada	1
+23726	La Alquería	Granada	1
+23727	Galera	Granada	1
+23728	Fonelas	Granada	1
+23729	Gobernador	Granada	1
+23730	Gójar	Granada	1
+23731	Freila	Granada	1
+23732	Gor	Granada	1
+23733	Fuentevaqueros	Granada	1
+23734	Churriana de la Vega	Granada	1
+23735	Dehesas de Guadix	Granada	1
+23736	Darro	Granada	1
+23737	Deifontes	Granada	1
+23738	Diezma	Granada	1
+23739	Sillar Baja	Granada	1
+23740	Dílar	Granada	1
+23741	Dólar	Granada	1
+23742	Dúdar	Granada	1
+23743	Dúrcal	Granada	1
+23744	Escúzar	Granada	1
+23745	Venta del Peral	Granada	1
+23746	Venta Quemada	Granada	1
+23747	Las Vertientes	Granada	1
+23748	Cúllar Vega	Granada	1
+23749	Chauchina	Granada	1
+23750	Romilla	Granada	1
+23751	Romilla la Nueva	Granada	1
+23752	Castillo Tajarja	Granada	1
+23753	Chimeneas	Granada	1
+23754	Cortes de Baza	Granada	1
+23755	Las Cucharetas	Granada	1
+23756	Murtas	Granada	1
+23757	Nigüelas	Granada	1
+23758	Nívar	Granada	1
+23759	Ogíjares	Granada	1
+23760	Lojilla	Granada	1
+23761	Montefrío	Granada	1
+23762	Montejícar	Granada	1
+23763	Montillana	Granada	1
+23764	Loreto	Granada	1
+23765	Moraleda de Zafayona	Granada	1
+23766	Calahonda	Granada	1
+23767	La Malahá	Granada	1
+23768	Maracena	Granada	1
+23769	Marchal	Granada	1
+23770	Limones	Granada	1
+23771	Moclín	Granada	1
+23772	Olivares	Granada	1
+23773	Puerto Lope	Granada	1
+23774	Tiena	Granada	1
+23775	Tózar	Granada	1
+23776	Molvízar	Granada	1
+23777	Barrio Monachil	Granada	1
+23778	Monachil	Granada	1
+23779	Sierra Nevada	Granada	1
+23780	Ventorros de la Laguna	Granada	1
+23781	Ventorros de San José	Granada	1
+23782	La Fábrica	Granada	1
+23783	Lugros	Granada	1
+23784	Los Carlos	Granada	1
+23785	Lújar	Granada	1
+23787	Castell de Ferro	Granada	1
+23788	Hernán Valle	Granada	1
+23789	Paulenca	Granada	1
+23790	Gualchos	Granada	1
+23791	Güejar-Sierra	Granada	1
+23792	Guevéjar	Granada	1
+23793	Huélago	Granada	1
+23794	Huéneja	Granada	1
+23795	Lentejí	Granada	1
+23796	Lobras	Granada	1
+23797	Tímar	Granada	1
+23798	Cuesta de la Palma	Granada	1
+23799	Fuente Camacho	Granada	1
+23800	Loja	Granada	1
+23801	Riofrío	Granada	1
+23802	Ventorros de Balerma	Granada	1
+23803	Gorafe	Granada	1
+23804	Cerrillo de Maracena	Granada	1
+23805	Zaidín Centro-Este	Granada	1
+23806	Albaycín	Granada	1
+23807	Almanjáyar	Granada	1
+23808	Las Flores	Granada	1
+23809	Cartuja	Granada	1
+23810	La Chana	Granada	1
+23811	Doctores 'Dr. Salvador Caballero García'	Granada	1
+23812	Fortuny (Velutti)	Granada	1
+23813	Zaidín Sur	Granada	1
+23814	Parque Nueva Granada	Granada	1
+23815	El Fargue	Granada	1
+23816	Góngora	Granada	1
+23817	Gran Capitán	Granada	1
+23818	Casería de Montijo	Granada	1
+23819	La Caleta	Granada	1
+23821	Guadahortuna	Granada	1
+23822	Bacor-Olivar	Granada	1
+23823	Belerda	Granada	1
+23824	Guadix	Granada	1
+23825	Las Cuevas (Guadix)	Granada	1
+23826	La Estación (Guadix)	Granada	1
+23827	Barriada de Andalucía (Guadix)	Granada	1
+23828	Trasmulas	Granada	1
+23829	Valderrubio	Granada	1
+23830	Zujaira	Granada	1
+23831	Bogarre	Granada	1
+23832	Píñar	Granada	1
+23833	Polícar	Granada	1
+23834	La Mamola	Granada	1
+23835	Polopos	Granada	1
+23836	Pórtugos	Granada	1
+23837	Almaciles	Granada	1
+23838	Puebla de Don Fadrique	Granada	1
+23839	Pulianas	Granada	1
+23840	Pampaneira	Granada	1
+23841	Pedro Martínez	Granada	1
+23842	Peligros	Granada	1
+23843	Los Villares	Granada	1
+23844	Pinos del Genil	Granada	1
+23845	Casanueva	Granada	1
+23846	Fuensanta	Granada	1
+23847	Pinos Puente	Granada	1
+23848	Orce	Granada	1
+23849	Alcázar	Granada	1
+23850	Órgiva 'D. Baldomero Villanueva'	Granada	1
+23851	Tablones	Granada	1
+23852	Otívar	Granada	1
+23853	Otura	Granada	1
+23854	Padul	Granada	1
+23855	Motril-Centro	Granada	1
+23856	Motril-Este	Granada	1
+23857	Motril-San Antonio	Granada	1
+23858	Torrenueva	Granada	1
+23859	Carchuna	Granada	1
+23860	El Puntalón	Granada	1
+23861	Cojáyar	Granada	1
+23862	Las Cabezas de San Juan	Sevilla	1
+23863	Las Marismillas	Sevilla	1
+23864	Camas	Sevilla	1
+23865	La Pañoleta	Sevilla	1
+23866	Coca de la Piñera	Sevilla	1
+23867	El Carambolo	Sevilla	1
+23868	La Campana	Sevilla	1
+23869	Cantillana 'D. Manuel Marroco Quevedo'	Sevilla	1
+23870	Carmona 'Ntra. Sra. de Gracia'	Sevilla	1
+23871	Corcoya	Sevilla	1
+23872	Benacazón	Sevilla	1
+23873	Bollullos de la Mitación	Sevilla	1
+23874	Bormujos	Sevilla	1
+23875	Brenes	Sevilla	1
+23876	Burguillos	Sevilla	1
+23877	Aznalcázar 'Matrona Dª Isabel Virosta Clemente'	Sevilla	1
+23878	Aznalcóllar	Sevilla	1
+23879	Badolatosa	Sevilla	1
+23880	Almadén de la Plata	Sevilla	1
+23881	Almensilla	Sevilla	1
+23882	Arahal	Sevilla	1
+23883	Algámitas	Sevilla	1
+23884	Alcalá de Guadaira 'Don Paulino García Donas'	Sevilla	1
+23885	Campo las Beatas	Sevilla	1
+23886	Ntra.Sra. de la Oliva	Sevilla	1
+23887	Alcalá del Rio	Sevilla	1
+23888	Esquivel	Sevilla	1
+23889	San Ignacio del Viar	Sevilla	1
+23890	El Viar	Sevilla	1
+23891	Estepa	Sevilla	1
+23892	Montequinto	Sevilla	1
+23893	Cerro Perea	Sevilla	1
+23894	Ecija 'El Almorrón'	Sevilla	1
+23895	Ecija 'Virgen del Valle'	Sevilla	1
+23896	Isla Redonda	Sevilla	1
+23897	Espartinas	Sevilla	1
+23898	Dos Hermanas Doña Mercedes	Sevilla	1
+23899	San Hilario	Sevilla	1
+23900	Santa Ana (Dos Hermanas C)	Sevilla	1
+23901	Fuente del Rey	Sevilla	1
+23903	Constantina	Sevilla	1
+23904	Virgen de la Estrella	Sevilla	1
+23905	Coripe	Sevilla	1
+23906	El Coronil 'Don Julio Borreguero'	Sevilla	1
+23907	Los Corrales	Sevilla	1
+23908	Castillo de las Guardas	Sevilla	1
+23909	Cazalla de la Sierra	Sevilla	1
+23910	Carrión de los Céspedes 'D. Manuel Moreno Peralta'	Sevilla	1
+23911	Casariche	Sevilla	1
+23912	Castilblanco de los Arroyos	Sevilla	1
+23913	Castilleja de Guzmán	Sevilla	1
+23914	Castilleja de la Cuesta	Sevilla	1
+23915	Castilleja del Campo	Sevilla	1
+23916	Guadajoz	Sevilla	1
+23917	Marchena 'Ricardo Martínez Sánchez'	Sevilla	1
+23918	Marinaleda	Sevilla	1
+23919	Matarredonda	Sevilla	1
+23920	Martín de la Jara	Sevilla	1
+23921	Los Molares	Sevilla	1
+23922	Mairena del Alcor	Sevilla	1
+23923	Mairena del Aljarafe	Sevilla	1
+23924	Montellano	Sevilla	1
+23925	Morón ' San Francisco'	Sevilla	1
+23926	Aguadulce	Sevilla	1
+23927	Alanís	Sevilla	1
+23928	Albaida del Aljarafe	Sevilla	1
+23929	Lora del Rio 'Virgen de Setefilla'	Sevilla	1
+23930	El Priorato	Sevilla	1
+23931	Campillo	Sevilla	1
+23932	La Luisiana	Sevilla	1
+23936	El Madroño	Sevilla	1
+23938	Huévar	Sevilla	1
+23939	La Lantejuela	Sevilla	1
+23940	Lebrija 'Ntra. Sra. del Castillo'	Sevilla	1
+23941	Lora de Estepa	Sevilla	1
+23942	Guillena 'Dr. Correa Charro'	Sevilla	1
+23943	Las Pajanosas	Sevilla	1
+23944	Torre de la Reina 'DR. HIGINIO CAPOTE GIL'	Sevilla	1
+23945	Herrera	Sevilla	1
+23946	Fuentes de Andalucía	Sevilla	1
+23947	El Garrobo	Sevilla	1
+23948	Gelves	Sevilla	1
+23949	Gerena	Sevilla	1
+23950	Gilena	Sevilla	1
+23951	Gines 'Dr. Juan Antonio González Caraballo'	Sevilla	1
+23952	Guadalcanal	Sevilla	1
+23953	Faraján	Málaga	1
+23954	Frigiliana	Málaga	1
+23955	Mondrón	Málaga	1
+23956	Periana	Málaga	1
+23957	Pizarra	Málaga	1
+23958	Villanueva de la Concepción	Málaga	1
+23959	La Joya-Nogales	Málaga	1
+23960	Árchez	Málaga	1
+23961	Archidona	Málaga	1
+23962	Estación de Archidona	Málaga	1
+23963	Estación Salinas	Málaga	1
+23964	Ardales	Málaga	1
+23965	Arenas	Málaga	1
+23966	Daimalos	Málaga	1
+23967	Alozaina	Málaga	1
+23968	Alpandeire	Málaga	1
+23969	Antequera	Málaga	1
+23970	Bobadilla Pueblo	Málaga	1
+23971	Bobadilla-Estación	Málaga	1
+23972	Colonia Santa Ana	Málaga	1
+23973	Cartaojal	Málaga	1
+23974	Alora	Málaga	1
+23975	Almáchar	Málaga	1
+23976	Almargen	Málaga	1
+23977	Almogía	Málaga	1
+23978	Moclinejo	Málaga	1
+23979	Canillas de Albaida	Málaga	1
+23980	Cañete la Real	Málaga	1
+23981	Carratraca	Málaga	1
+23982	Cartajima	Málaga	1
+23983	Cártama	Málaga	1
+23984	Cártama-Estación	Málaga	1
+23985	Pasada de Granadillo	Málaga	1
+23986	Benaoján	Málaga	1
+23987	Benarrabá	Málaga	1
+23988	El Borge	Málaga	1
+23989	El Burgo	Málaga	1
+23990	Campillos	Málaga	1
+23991	Canillas de Aceituno	Málaga	1
+23992	Benalmádena (Alcolea)	Málaga	1
+23993	Benamargosa	Málaga	1
+23994	Benamocarra	Málaga	1
+23995	Benadalid	Málaga	1
+23996	Benahavís	Málaga	1
+23997	Benalauría	Málaga	1
+23998	Arroyo de la Miel-Benalmádena	Málaga	1
+23999	Arriate	Málaga	1
+24000	Atajate	Málaga	1
+24001	Igualeja	Málaga	1
+24002	Istán	Málaga	1
+24003	Iznate	Málaga	1
+24004	Jimera de Líbar	Málaga	1
+24005	Jubrique	Málaga	1
+24006	Júzcar	Málaga	1
+24007	Benaque	Málaga	1
+24008	Macharaviaya	Málaga	1
+24009	Campanillas	Málaga	1
+24010	Santa Rosalía	Málaga	1
+24011	Los Boliches	Málaga	1
+24012	Fuengirola-Oeste	Málaga	1
+24013	Fuente de Piedra	Málaga	1
+24014	Gaucín	Málaga	1
+24015	Genalguacil	Málaga	1
+24016	Guaro	Málaga	1
+24017	Humilladero	Málaga	1
+24019	Estepona	Málaga	1
+24020	Cancelada	Málaga	1
+24021	Cuevas del Becerro	Málaga	1
+24022	Cuevas de San Marcos	Málaga	1
+24023	Cútar	Málaga	1
+24024	Cómpeta	Málaga	1
+24025	La Cañada del Real Tesoro	Málaga	1
+24026	El Colmenar	Málaga	1
+24027	Cortes de la Frontera	Málaga	1
+24028	Cuevas Bajas	Málaga	1
+24029	Comares	Málaga	1
+24030	Colmenar	Málaga	1
+24031	Casabermeja	Málaga	1
+24032	Casarabonela	Málaga	1
+24033	Casares	Málaga	1
+24034	Coín	Málaga	1
+24035	Rio Bermuza	Málaga	1
+24036	Ibros	Jaén	1
+24037	Burunchel	Jaén	1
+24038	La Iruela	Jaén	1
+24039	Iznatoraf	Jaén	1
+24040	Jabalquinto	Jaén	1
+24041	Las Infantas	Jaén	1
+24043	Lahiguera	Jaén	1
+24044	Higuera de Calatrava	Jaén	1
+24045	Hinojares	Jaén	1
+24046	Cañada Morales	Jaén	1
+24047	Hornos de Segura	Jaén	1
+24048	Huelma	Jaén	1
+24049	Solera	Jaén	1
+24050	Huesa	Jaén	1
+24051	Fuensanta de Martos	Jaén	1
+24052	Fuerte del Rey	Jaén	1
+24053	Génave	Jaén	1
+24054	La Guardia	Jaén	1
+24055	Guarromán	Jaén	1
+24056	Espelúy	Jaén	1
+24057	Estación de Espeluy	Jaén	1
+24058	Frailes	Jaén	1
+24059	El Molar	Jaén	1
+24060	Valdecazorla	Jaén	1
+24061	Campillo	Jaén	1
+24062	Camporredondo	Jaén	1
+24063	Chiclana de Segura	Jaén	1
+24064	Chilluévar	Jaén	1
+24065	Escañuela	Jaén	1
+24066	Las Navas de Tolosa	Jaén	1
+24067	Castellar	Jaén	1
+24068	Castillo de Locubín	Jaén	1
+24069	Ventas del Carrizal	Jaén	1
+24070	Santisteban del Puerto	Jaén	1
+24071	Santo Tomé	Jaén	1
+24072	Porche	Jaén	1
+24073	Belerda	Jaén	1
+24074	Quesada	Jaén	1
+24075	Don Pedro	Jaén	1
+24076	Toya	Jaén	1
+24077	Pegalajar	Jaén	1
+24078	Porcuna	Jaén	1
+24079	Fontanar	Jaén	1
+24080	Pozo Alcón	Jaén	1
+24081	Peñolite	Jaén	1
+24082	Puente Génave	Jaén	1
+24083	Los Pascuales	Jaén	1
+24084	La Puerta de Segura	Jaén	1
+24085	Aldeahermosa	Jaén	1
+24086	Montizón	Jaén	1
+24087	Venta de los Santos	Jaén	1
+24088	Navas de San Juan	Jaén	1
+24089	La Hoya del Salobral	Jaén	1
+24090	Noalejo 'Don Antonio Moreno Ortega'	Jaén	1
+24091	Orcera	Jaén	1
+24092	Hornos de Peal	Jaén	1
+24093	Peal de Becerro	Jaén	1
+24094	Lopera	Jaén	1
+24095	Guadalimar	Jaén	1
+24096	Lupión	Jaén	1
+24097	Mancha Real	Jaén	1
+24098	Sotogordo	Jaén	1
+24099	Marmolejo	Jaén	1
+24100	La Carrasca	Jaén	1
+24101	Las Casillas de Martos	Jaén	1
+24102	Martos	Jaén	1
+24103	Monte Lope-Álvarez	Jaén	1
+24104	Mengíbar	Jaén	1
+24105	Virgen de la Capilla	Jaén	1
+24106	San Felipe	Jaén	1
+24107	Fuentezuelas	Jaén	1
+24108	La Magdalena	Jaén	1
+24109	El Valle	Jaén	1
+24110	Federico Castillo	Jaén	1
+24111	Jamilena	Jaén	1
+24112	Jimena	Jaén	1
+24113	Las Escuelas	Jaén	1
+24114	Jódar 'Doctor Ricardo Fernández Valades'	Jaén	1
+24115	Larva	Jaén	1
+24116	Estación Linares-Baeza	Jaén	1
+24117	Linares A 'Virgen de Linarejos'	Jaén	1
+24118	Linares B 'Los Marqueses'	Jaén	1
+24119	Linares C 'San José'	Jaén	1
+24120	Pontones	Jaén	1
+24121	Santiago-Pontones	Jaén	1
+24122	Torrequebradilla	Jaén	1
+24123	Vados de Torralba	Jaén	1
+24124	Villargordo	Jaén	1
+24125	Coto Rios	Jaén	1
+24126	Villacarrillo	Jaén	1
+24127	Quintería	Jaén	1
+24128	Villanueva de la Reina	Jaén	1
+24129	Villanueva del Arzobispo	Jaén	1
+24130	Villardompardo	Jaén	1
+24131	Los Villares	Jaén	1
+24132	Onsares	Jaén	1
+24133	Villarrodrigo	Jaén	1
+24134	Cárchel	Jaén	1
+24135	Carchelejo	Jaén	1
+24136	Bedmar	Jaén	1
+24137	Garcíez	Jaén	1
+24138	Úbeda	Jaén	1
+24139	Veracruz	Jaén	1
+24140	Valdepeñas	Jaén	1
+24141	Guadalén	Jaén	1
+24142	Miraelrío	Jaén	1
+24143	Vilches	Jaén	1
+24144	Agrupación de Mogón	Jaén	1
+24145	La Caleruela	Jaén	1
+24146	Mogón	Jaén	1
+24147	Torreblascopedro	Jaén	1
+24148	Torredelcampo	Jaén	1
+24149	Torredonjimeno	Jaén	1
+24150	Torreperogil	Jaén	1
+24151	Torres	Jaén	1
+24152	Torres de Albánchez	Jaén	1
+24153	El Donadio	Jaén	1
+24154	Santa Eulalia	Jaén	1
+24155	Solana de Torralba	Jaén	1
+24156	Carrasco	Jaén	1
+24157	Cortijos Nuevos	Jaén	1
+24158	El Ojuelo	Jaén	1
+24159	Rihornos	Jaén	1
+24160	Robledo	Jaén	1
+24161	Segura de la Sierra	Jaén	1
+24162	Siles	Jaén	1
+24163	Sorihuela del Guadalimar	Jaén	1
+24164	Campillo del Rio	Jaén	1
+24165	El Mármol	Jaén	1
+24166	Rus	Jaén	1
+24167	Sabiote	Jaén	1
+24168	Santa Elena	Jaén	1
+24169	Santiago de Calatrava	Jaén	1
+24170	Los Noguerones	Jaén	1
+24171	Sabariego	Jaén	1
+24172	Aldeaquemada	Jaén	1
+24173	Virgen de la Cabeza	Jaén	1
+24174	Puerta de Madrid	Jaén	1
+24175	Llanos de Sotillo	Jaén	1
+24176	Ropera	Jaén	1
+24177	Vegas de Triana	Jaén	1
+24178	Los Villares de Andújar	Jaén	1
+24179	Arjona	Jaén	1
+24180	Mures	Jaén	1
+24181	La Pedriza	Jaén	1
+24182	La Rábita	Jaén	1
+24183	Santa Ana	Jaén	1
+24184	Alcaudete	Jaén	1
+24185	La Bobadilla	Jaén	1
+24186	Albánchez de Mágina	Jaén	1
+24187	Alcalá la Real	Jaén	1
+24188	Charilla	Jaén	1
+24189	Ermita Nueva	Jaén	1
+24190	Fuente Álamo	Jaén	1
+24191	La Toba	Jaén	1
+24192	La Matea	Jaén	1
+24193	Miller	Jaén	1
+24194	Paymogo	Huelva	1
+24195	Minas de Herrerías	Huelva	1
+24196	Puebla de Guzmán	Huelva	1
+24197	Puerto Moral	Huelva	1
+24198	Punta Umbría	Huelva	1
+24199	Rociana del Condado	Huelva	1
+24200	Rosal de la Frontera	Huelva	1
+24201	San Bartolomé de la Torre	Huelva	1
+24202	San Juan del Puerto	Huelva	1
+24203	Sanlúcar  de Guadiana	Huelva	1
+24204	La Dehesa	Huelva	1
+24205	Mazagón	Huelva	1
+24206	Moguer	Huelva	1
+24207	La Nava	Huelva	1
+24208	Nerva	Huelva	1
+24209	Niebla	Huelva	1
+24210	La Palma del Condado	Huelva	1
+24211	Palos de la Frontera	Huelva	1
+24212	Los Romeros	Huelva	1
+24213	El Repilado	Huelva	1
+24214	La Antilla	Huelva	1
+24215	Lepe	Huelva	1
+24216	Linares de la Sierra	Huelva	1
+24217	Lucena del Puerto	Huelva	1
+24218	Manzanilla	Huelva	1
+24219	Los Marines	Huelva	1
+24220	Minas de Riotinto	Huelva	1
+24221	Higuera de la Sierra	Huelva	1
+24222	Hinojales	Huelva	1
+24223	Hinojos	Huelva	1
+24224	Los Rosales	Huelva	1
+24226	Huelva-Centro	Huelva	1
+24227	El Torrejón	Huelva	1
+24228	Molino de la Vega	Huelva	1
+24229	La Orden	Huelva	1
+24230	Adoratrices	Huelva	1
+24231	Isla Cristina	Huelva	1
+24232	La Redondela	Huelva	1
+24233	Jabugo	Huelva	1
+24234	Aljaraque	Huelva	1
+24235	Beas	Huelva	1
+24236	Candón	Huelva	1
+24237	El Berrocal	Huelva	1
+24238	Bollullos Par del Condado	Huelva	1
+24239	Bonares	Huelva	1
+24240	Pozo del Camino	Huelva	1
+24241	Cabezas Rubias	Huelva	1
+24242	Cala	Huelva	1
+24243	Punta del Moral	Huelva	1
+24245	Aroche	Huelva	1
+24246	Las Cefiñas	Huelva	1
+24247	Arroyomolinos de León	Huelva	1
+24248	Ayamonte	Huelva	1
+24249	Alosno	Huelva	1
+24250	Tharsis	Huelva	1
+24251	Aracena	Huelva	1
+24252	El Patrás	Huelva	1
+24253	Almonte	Huelva	1
+24254	El Rocío	Huelva	1
+24255	Matalascañas	Huelva	1
+24256	Villarrasa	Huelva	1
+24257	El Buitrón	Huelva	1
+24258	Las Delgadas	Huelva	1
+24259	Villanueva de las Cruces	Huelva	1
+24260	Marigenta	Huelva	1
+24261	El Membrillo	Huelva	1
+24262	El Pozuelo	Huelva	1
+24263	El Villar	Huelva	1
+24264	Zalamea la Real	Huelva	1
+24265	Villanueva de los Castillejos	Huelva	1
+24266	Zufre	Huelva	1
+24267	Santa Ana la Real	Huelva	1
+24268	San Silvestre de Guzmán	Huelva	1
+24269	Santa Bárbara de Casa	Huelva	1
+24270	Santa Olalla de Cala	Huelva	1
+24271	La Corte de Santa Ana	Huelva	1
+24272	Trigueros	Huelva	1
+24273	Valdelarco	Huelva	1
+24274	Valverde del Camino	Huelva	1
+24275	Villablanca	Huelva	1
+24276	Villalba del Alcor	Huelva	1
+24277	Paterna del Campo	Huelva	1
+24278	Levante-Norte de Córdoba	Córdoba	1
+24279	Centro de Córdoba	Córdoba	1
+24282	Fuensanta	Córdoba	1
+24283	Huerta de la Reina	Córdoba	1
+24284	Barriada de los Ángeles	Córdoba	1
+24285	Guadalquivir	Córdoba	1
+24286	Sector Sur (Santa Victoria)	Córdoba	1
+24287	Santa Cruz	Córdoba	1
+24288	Previsión (Ciudad Jardín)	Córdoba	1
+24290	La Marina (Figueroa)	Córdoba	1
+24292	Occidente 'Azahara'	Córdoba	1
+24293	Barriada el Naranjo	Córdoba	1
+24294	Santa Rosa	Córdoba	1
+24295	Levante Sur	Córdoba	1
+24296	Encinarejo	Córdoba	1
+24297	El Higuerón	Córdoba	1
+24298	Conquista	Córdoba	1
+24299	Alcolea	Córdoba	1
+24300	Cerro Muriano	Córdoba	1
+24301	El Carpio	Córdoba	1
+24302	Maruanas	Córdoba	1
+24303	Castro del Rio	Córdoba	1
+24304	Cabra 'Matrona Antonia Mesa Fernández'	Córdoba	1
+24305	Cañete de las Torres	Córdoba	1
+24306	Carcabuey	Córdoba	1
+24307	Azuel	Córdoba	1
+24308	Cardeña	Córdoba	1
+24309	Arrecife	Córdoba	1
+24310	La Carlota	Córdoba	1
+24311	Belmez	Córdoba	1
+24312	Doña Rama	Córdoba	1
+24313	El Hoyo	Córdoba	1
+24314	Benamejí 'Francisco Nieto Lucena'	Córdoba	1
+24315	Los Blázquez	Córdoba	1
+24316	Navas del Selpillar	Córdoba	1
+24317	Luque	Córdoba	1
+24318	Montalbán de Córdoba (Dª Natividad Cabrera Sillero)	Córdoba	1
+24319	Montemayor	Córdoba	1
+24320	Jauja	Córdoba	1
+24321	Lucena	Córdoba	1
+24322	El Higueral	Córdoba	1
+24323	Iznájar	Córdoba	1
+24324	Hornachuelos	Córdoba	1
+24325	El Cañuelo	Córdoba	1
+24326	Fuente-Tójar	Córdoba	1
+24327	La Granjuela	Córdoba	1
+24328	Guadalcázar	Córdoba	1
+24329	Guijo	Córdoba	1
+24330	Cañada del Rabadán	Córdoba	1
+24331	Fuente Carretero	Córdoba	1
+24332	Fuente Palmera	Córdoba	1
+24333	Ochavillo del Rio	Córdoba	1
+24334	Los Morenos	Córdoba	1
+24335	Navalcuervo	Córdoba	1
+24336	Ojuelos Altos	Córdoba	1
+24337	Ojuelos Bajos	Córdoba	1
+24338	Los Pánchez	Córdoba	1
+24339	Piconcillo	Córdoba	1
+24340	El Porvenir de la Industria	Córdoba	1
+24341	Posadilla	Córdoba	1
+24342	Valsequillo	Córdoba	1
+24343	La Victoria	Córdoba	1
+24344	Villa del Rio	Córdoba	1
+24345	Villafranca de Córdoba	Córdoba	1
+24346	Villaharta	Córdoba	1
+24347	Rute	Córdoba	1
+24348	Zambra	Córdoba	1
+24349	San Sebastián de los Ballesteros	Córdoba	1
+24350	La Guijarrosa	Córdoba	1
+24351	La Montiela	Córdoba	1
+24352	Santaella	Córdoba	1
+24353	Puente Genil 'José Gallego Arroba'	Córdoba	1
+24354	La Rambla	Córdoba	1
+24355	Las Lagunillas	Córdoba	1
+24356	Priego de Córdoba	Córdoba	1
+24357	Zamoranos	Córdoba	1
+24358	Zagrilla	Córdoba	1
+24359	Castil de Campo	Córdoba	1
+24360	La Concepción	Córdoba	1
+24361	Pedro Abad	Córdoba	1
+24362	Pedroche	Córdoba	1
+24363	Peñarroya	Córdoba	1
+24364	El Esparragal	Córdoba	1
+24365	Posadas 'D. Rafael Florez Crespo'	Córdoba	1
+24366	Pozoblanco	Córdoba	1
+24367	Palma del Rio 'Dr. Trujillo del Rio'	Córdoba	1
+24368	Obejo	Córdoba	1
+24369	Montoro	Córdoba	1
+24370	Monturque	Córdoba	1
+24371	Moriles	Córdoba	1
+24372	Nueva Carteya	Córdoba	1
+24373	Palenciana	Córdoba	1
+24374	Montilla	Córdoba	1
+24375	Villarrubia	Córdoba	1
+24376	Doña Mencía	Córdoba	1
+24377	Dos Torres	Córdoba	1
+24378	Encinas Reales	Córdoba	1
+24379	Espejo	Córdoba	1
+24380	Espiel	Córdoba	1
+24381	Fernán Núñez 'Dª Josefina Carmona'	Córdoba	1
+24382	Fuente la Lancha	Córdoba	1
+24383	El Alcornocal	Córdoba	1
+24384	Argallón	Córdoba	1
+24385	Cañada del Gamo	Córdoba	1
+24386	La Cardenchosa	Córdoba	1
+24387	La Coronada	Córdoba	1
+24388	Cuenca	Córdoba	1
+24389	Fuente Obejuna	Córdoba	1
+24390	Villaralto	Córdoba	1
+24391	El Vacar	Córdoba	1
+24392	Villaviciosa de Córdoba	Córdoba	1
+24393	El Viso	Córdoba	1
+24394	Zuheros	Córdoba	1
+24395	Villanueva de Córdoba	Córdoba	1
+24396	Villanueva del Duque	Córdoba	1
+24397	Villanueva del Rey	Córdoba	1
+24398	Santa Eufemia	Córdoba	1
+24399	Torrecampo	Córdoba	1
+24400	Valenzuela	Córdoba	1
+24401	Los Mochos	Córdoba	1
+24402	Añora	Córdoba	1
+24403	Albendín	Córdoba	1
+24404	Baena 'Dr. Ignacio Osuna Gómez'	Córdoba	1
+24405	Belalcázar	Córdoba	1
+24406	Alcaracejos	Córdoba	1
+24407	Adamuz	Córdoba	1
+24408	Algallarín	Córdoba	1
+24409	Aguilar	Córdoba	1
+24410	Jatar	Granada	1
+24411	Pantano los Bermejales	Granada	1
+24412	Armilla	Granada	1
+24413	Atarfe	Granada	1
+24414	El Baúl	Granada	1
+24415	Baza	Granada	1
+24416	Cuevas de Baza	Granada	1
+24417	Buenavista	Granada	1
+24418	Ventas de Zafarraya	Granada	1
+24419	Alhendín	Granada	1
+24420	Alicún Ortega	Granada	1
+24421	Almegíjar	Granada	1
+24422	Notáez	Granada	1
+24423	Almuñécar	Granada	1
+24424	Los Marinos	Granada	1
+24425	El Castillo	Granada	1
+24426	La Herradura	Granada	1
+24427	Gabia la Chica (Las Gabias)	Granada	1
+24428	Gabia la Grande (Las Gabias)	Granada	1
+24429	Pitres	Granada	1
+24430	Melegis (El Valle)	Granada	1
+24431	Nueva Jarilla	Cádiz	1
+24432	El Portal	Cádiz	1
+24433	Lomopardo	Cádiz	1
+24434	Chipiona 'Doctor Tolosa Latour'	Cádiz	1
+24435	Espera	Cádiz	1
+24436	El Gastor	Cádiz	1
+24437	Benamahoma	Cádiz	1
+24438	Grazalema	Cádiz	1
+24439	Cuartillos	Cádiz	1
+24440	Estella del Marqués	Cádiz	1
+24441	Castellar de la Frontera	Cádiz	1
+24442	Conil 'La Atalaya'	Cádiz	1
+24443	El Colorado	Cádiz	1
+24444	Chiclana-La Banda 'Padre Salado'	Cádiz	1
+24445	Chiclana - El Lugar	Cádiz	1
+24446	Zahara de los Atunes	Cádiz	1
+24447	Los Cortijillos	Cádiz	1
+24448	Los Barrios	Cádiz	1
+24449	Palmones	Cádiz	1
+24450	Benaocaz	Cádiz	1
+24451	Bornos	Cádiz	1
+24452	Coto de Bornos	Cádiz	1
+24453	El Bosque	Cádiz	1
+24454	La Laguna	Cádiz	1
+24455	La Paz	Cádiz	1
+24456	Olivillo	Cádiz	1
+24457	Mentidero	Cádiz	1
+24458	Puerta de Tierra I	Cádiz	1
+24459	Loreto-Puntales	Cádiz	1
+24460	La Merced	Cádiz	1
+24463	Almoraima	Cádiz	1
+24464	Jédula	Cádiz	1
+24465	Barbate	Cádiz	1
+24466	Alcalá de los Gazules	Cádiz	1
+24467	Alcalá del Valle	Cádiz	1
+24468	Algar	Cádiz	1
+24469	Algeciras-Norte	Cádiz	1
+24470	Algeciras-Sur 'Saladillo'	Cádiz	1
+24471	La Juliana	Cádiz	1
+24472	El Cobre	Cádiz	1
+24473	San García	Cádiz	1
+24474	Algeciras 'Camilo Menéndez Tolosa'	Cádiz	1
+24475	La Bajadilla	Cádiz	1
+24476	El Pelayo	Cádiz	1
+24477	Algodonales	Cádiz	1
+24478	La Muela	Cádiz	1
+24479	Arcos de la Frontera	Cádiz	1
+24480	El Posito	Cádiz	1
+24481	Bujalance 'D. Antonio Fernandez de Molina y Cañas'	Córdoba	1
+24482	Almedinilla	Córdoba	1
+24483	Almodóvar del Rio	Córdoba	1
+24484	Barrio Jarana	Cádiz	1
+24485	Puerto Real	Cádiz	1
+24486	Rio San Pedro	Cádiz	1
+24487	Medina Sidonia	Cádiz	1
+24488	Olvera	Cádiz	1
+24489	Paterna de Rivera 'Gonzalo Pérez Fabra'	Cádiz	1
+24490	Prado del Rey	Cádiz	1
+24492	Puerto Santa María-Norte 'Pinillo Chico'	Cádiz	1
+24493	Puerto de Santa María Sur	Cádiz	1
+24494	San Isidro	Cádiz	1
+24495	El Torno	Cádiz	1
+24496	Torremelgarejo	Cádiz	1
+24497	Torrecera	Cádiz	1
+24498	Jimena de la Frontera	Cádiz	1
+24499	San Martín del Tesorillo	Cádiz	1
+24500	San Pablo de Buceite	Cádiz	1
+24501	La Linea-Centro 'La Velada'	Cádiz	1
+24502	La Línea Poniente	Cádiz	1
+24503	La Línea Levante	Cádiz	1
+24504	Gibalbín	Cádiz	1
+24505	Guadalcacín	Cádiz	1
+24506	Delicias Jerez	Cádiz	1
+24507	La Barca	Cádiz	1
+24508	La Granja 'Dr. Manuel Blanco'	Cádiz	1
+24509	La Serrana	Cádiz	1
+24510	San Benito	Cádiz	1
+24511	San Telmo	Cádiz	1
+24512	Jerez Centro	Cádiz	1
+24514	Majarromaque	Cádiz	1
+24515	Montealegre	Cádiz	1
+24516	Venta del Viso	Almería	1
+24517	Benalup	Cádiz	1
+24518	Zahara de la Sierra	Cádiz	1
+24519	San José del Valle	Cádiz	1
+24520	La Mojonera	Almería	1
+24521	Vejer de la Frontera 'Virgen de la Oliva'	Cádiz	1
+24522	Villaluenga del Rosario	Cádiz	1
+24523	Villamartín	Cádiz	1
+24524	Bolonia	Cádiz	1
+24525	Tahivilla	Cádiz	1
+24526	Tarifa	Cádiz	1
+24527	Torre Alháquime	Cádiz	1
+24528	Trebujena	Cádiz	1
+24529	Ubrique	Cádiz	1
+24530	San Enrique Guadiaro	Cádiz	1
+24531	San Roque	Cádiz	1
+24532	Taraguilla	Cádiz	1
+24533	Torreguadiaro	Cádiz	1
+24534	Setenil	Cádiz	1
+24535	Facinas	Cádiz	1
+24536	La Dehesilla	Cádiz	1
+24537	Sanlúcar-Barrio Alto	Cádiz	1
+24538	Sanlúcar-Barrio Bajo	Cádiz	1
+24539	Campamento	Cádiz	1
+24540	Estación de San Roque	Cádiz	1
+24541	Guadiaro	Cádiz	1
+24542	Guadarranque	Cádiz	1
+24543	Puente Mayorga	Cádiz	1
+24544	Puerto Serrano	Cádiz	1
+24545	Rota	Cádiz	1
+24546	San Fernando Este	Cádiz	1
+24547	Dr. Joaquín Pece	Cádiz	1
+24548	Rodríguez Arias	Cádiz	1
+24549	Algaida	Cádiz	1
+24550	Bonanza	Cádiz	1
+24551	Tahal	Almería	1
+24552	Terque	Almería	1
+24553	El Higueral	Almería	1
+24554	Tíjola	Almería	1
+24555	Benitorafe	Almería	1
+24556	Turre	Almería	1
+24557	Turrillas	Almería	1
+24558	Uleila del Campo	Almería	1
+24559	Urrácal	Almería	1
+24560	Velefique	Almería	1
+24561	Vélez Blanco	Almería	1
+24562	Topares	Almería	1
+24563	Vélez Rubio	Almería	1
+24564	Vera	Almería	1
+24565	Viator	Almería	1
+24566	Llanos de Vícar	Almería	1
+24567	La Gangosa	Almería	1
+24568	Puebla de Vícar	Almería	1
+24569	Cabañuelas Bajas	Almería	1
+24570	Vícar	Almería	1
+24571	La Alfoquia	Almería	1
+24572	Zurgena	Almería	1
+24573	Escúllar	Almería	1
+24574	Doña María	Almería	1
+24575	Ocaña	Almería	1
+24576	Almerimar	Almería	1
+24577	Balerma	Almería	1
+24578	El Ejido	Almería	1
+24579	Santo Domingo	Almería	1
+24580	Guardias Viejas	Almería	1
+24581	Las Norias	Almería	1
+24582	Pampanico	Almería	1
+24583	San Agustín	Almería	1
+24584	Santa María del Águila	Almería	1
+24585	La Fuente	Almería	1
+24586	El Pilar de Jaravia	Almería	1
+24587	Terreros	Almería	1
+24588	Pozo de la Higuera	Almería	1
+24589	Campillo de Purchena	Almería	1
+24590	Purchena	Almería	1
+24591	Rágol	Almería	1
+24592	El Marraque	Almería	1
+24593	Rioja	Almería	1
+24594	Aguadulce	Almería	1
+24595	Aguadulce Sur	Almería	1
+24596	Cortijos Marín	Almería	1
+24597	Las Marinas	Almería	1
+24598	El Parador	Almería	1
+24599	Roquetas	Almería	1
+24600	Santa Cruz	Almería	1
+24601	Santa Fe de Mondújar	Almería	1
+24602	Senés	Almería	1
+24603	Serón	Almería	1
+24604	Sierro	Almería	1
+24605	Somontín	Almería	1
+24606	Cariatiz (Los Alias)	Almería	1
+24607	La Mela	Almería	1
+24608	Gafarillos	Almería	1
+24609	La Huelga	Almería	1
+24610	Sorbas	Almería	1
+24611	Suflí	Almería	1
+24612	Tabernas	Almería	1
+24613	Taberno	Almería	1
+24614	Fernán Pérez	Almería	1
+24615	Hortichuelas	Almería	1
+24616	Campohermoso	Almería	1
+24617	Las Negras	Almería	1
+24618	Los Nietos	Almería	1
+24619	Níjar	Almería	1
+24620	Pozo de los Frailes	Almería	1
+24621	Pueblo Blanco	Almería	1
+24622	Rodalquilar	Almería	1
+24623	San Isidro	Almería	1
+24624	San José	Almería	1
+24625	El Viso	Almería	1
+24626	Ohanes	Almería	1
+24627	Olula de Castro	Almería	1
+24628	Olula del Rio	Almería	1
+24629	Oria	Almería	1
+24630	Padules	Almería	1
+24631	Partaloa	Almería	1
+24632	Paterna del Rio	Almería	1
+24633	Pechina	Almería	1
+24634	Los Baños de Sierra Alhamilla	Almería	1
+24635	El Convoy	Almería	1
+24636	Pulpí	Almería	1
+24637	San Francisco	Almería	1
+24638	Santa María de Nieva	Almería	1
+24639	Úrcal	Almería	1
+24640	Illar	Almería	1
+24641	Instinción	Almería	1
+24642	Laroya	Almería	1
+24643	Láujar de Andarax	Almería	1
+24644	Líjar	Almería	1
+24645	Lubrín	Almería	1
+24646	Lucainena de las Torres	Almería	1
+24647	Polopos	Almería	1
+24648	Cela	Almería	1
+24649	Lúcar	Almería	1
+24650	Macael	Almería	1
+24651	María	Almería	1
+24652	Mojácar Pueblo	Almería	1
+24653	Nacimiento	Almería	1
+24654	Agua Amarga	Almería	1
+24655	Albaricoques	Almería	1
+24656	Atochares	Almería	1
+24657	Barranquete	Almería	1
+24658	Cuevas de Almanzora	Almería	1
+24659	Guazamara	Almería	1
+24660	El Largo	Almería	1
+24661	Los Lobos	Almería	1
+24662	Palomares	Almería	1
+24663	Villaricos	Almería	1
+24664	Chercos	Almería	1
+24665	Contador	Almería	1
+24666	Chirivel	Almería	1
+24667	Dalías	Almería	1
+24668	Enix	Almería	1
+24669	Felix	Almería	1
+24670	Fines	Almería	1
+24671	Fiñana	Almería	1
+24672	Benecid	Almería	1
+24673	Fondón	Almería	1
+24674	Fuente Victoria	Almería	1
+24675	Gádor	Almería	1
+24676	Los Gallardos	Almería	1
+24677	Garrucha	Almería	1
+24678	Alcubillas	Almería	1
+24679	Aulago	Almería	1
+24680	Gérgal	Almería	1
+24681	Huécija	Almería	1
+24682	Huércal de Almería	Almería	1
+24683	El Potro	Almería	1
+24684	Huércal-Overa	Almería	1
+24685	Overa	Almería	1
+24686	Bacares	Almería	1
+24687	Bayárcal	Almería	1
+24688	Bayarque	Almería	1
+24689	Castaño del Robledo	Huelva	1
+24691	Monteblanco	Huelva	1
+24692	Jerez del Marquesado	Granada	1
+24693	Mirasierra	Granada	1
+24694	Doctor Federico Rubio	Cádiz	1
+24695	Bédar	Almería	1
+24696	Beires	Almería	1
+24697	Benahadux	Almería	1
+24698	El Chuche	Almería	1
+24699	Benitagla	Almería	1
+24700	Benizalón	Almería	1
+24701	Fuente de la Higuera	Almería	1
+24702	Bentarique	Almería	1
+24703	Balanegra	Almería	1
+24704	Berja	Almería	1
+24705	Canjáyar	Almería	1
+24706	Almanzora	Almería	1
+24707	Cantoria	Almería	1
+24708	Argamasón	Almería	1
+24709	Carboneras 'El Lometico'	Almería	1
+24710	Cueva del Pájaro	Almería	1
+24711	Los Llanos de Don Antonio	Almería	1
+24712	El Saltador	Almería	1
+24713	Castro Filabres	Almería	1
+24714	Armuña de Almanzora	Almería	1
+24715	Cóbdar	Almería	1
+24716	La Alquería	Almería	1
+24717	Abla	Almería	1
+24718	Abrucena	Almería	1
+24719	Alboloduy	Almería	1
+24720	Albox	Almería	1
+24721	Las Pocicas	Almería	1
+24722	Alcolea	Almería	1
+24723	Alcóntar	Almería	1
+24724	El Hijate	Almería	1
+24725	Alcudia de Monteagud	Almería	1
+24726	Alhabia	Almería	1
+24727	Alhama de Almería	Almería	1
+24728	Alicún	Almería	1
+24729	Almería Centro	Almería	1
+24730	Oliveros	Almería	1
+24731	Los Molinos	Almería	1
+24732	Retamar	Almería	1
+24733	El Palmeral	Almería	1
+24734	Ciudad Jardín	Almería	1
+24735	Cruz de Caravaca	Almería	1
+24736	Plaza de Toros	Almería	1
+24737	Virgen del Mar-Los Molinos	Almería	1
+24738	Puche	Almería	1
+24739	Nueva Andalucía	Almería	1
+24742	Centro de Almería	Almería	1
+24743	Alcazaba	Almería	1
+24744	El Alquián	Almería	1
+24745	Cabo de Gata	Almería	1
+24746	La Cañada	Almería	1
+24747	Cuevas de los Medinas	Almería	1
+24748	Llanos de la Cañada	Almería	1
+24749	Pujaire	Almería	1
+24750	Ruescas	Almería	1
+24751	Almócita	Almería	1
+24752	Alsodux	Almería	1
+24753	Aljariz	Almería	1
+24754	Antas	Almería	1
+24755	Arboleas	Almería	1
+24756	Adra	Almería	1
+24757	Bellavista	Huelva	1
+24758	El Almendro	Huelva	1
+24759	Almonaster la Real	Huelva	1
+24760	Minas de Concepción	Huelva	1
+24761	Cueva de la Mora	Huelva	1
+24762	Alájar	Huelva	1
+24763	Escacena del Campo	Huelva	1
+24764	Fuenteheridos	Huelva	1
+24765	Galaroza	Huelva	1
+24766	Gibraleón	Huelva	1
+24767	La Granada de Riotinto	Huelva	1
+24768	El Granado	Huelva	1
+24769	Chucena	Huelva	1
+24770	Corteconcepción	Huelva	1
+24771	Encinasola	Huelva	1
+24772	Cortegana	Huelva	1
+24773	San Telmo	Huelva	1
+24774	Valdelamusa	Huelva	1
+24775	Cortelazor	Huelva	1
+24776	Cumbres de Enmedio	Huelva	1
+24777	Cumbres de San Bartolomé	Huelva	1
+24778	Cumbres Mayores	Huelva	1
+24779	El Cerro del Andévalo	Huelva	1
+24780	Calañas	Huelva	1
+24781	El Perrunal	Huelva	1
+24782	Montes de San Benito	Huelva	1
+24783	La Zarza	Huelva	1
+24784	Sotiel Coronada	Huelva	1
+24785	El Campillo	Huelva	1
+24786	Traslasierra	Huelva	1
+24787	Campofrío	Huelva	1
+24788	Cañaveral de León	Huelva	1
+24789	Cartaya	Huelva	1
+24790	El Rompido	Huelva	1
+24791	Puente del Rio	Almería	1
+24792	Albánchez	Almería	1
+24793	La Curva	Almería	1
+24794	Corrales	Huelva	1
+24795	Restábal (El Valle)	Granada	1
+24796	Saleres (El Valle)	Granada	1
+24797	Laroles	Granada	1
+24798	Mairena	Granada	1
+24799	Picena	Granada	1
+24800	Mecina Bombarón	Granada	1
+24801	Yegen	Granada	1
+24802	Zújar	Granada	1
+24803	Ferreirola	Granada	1
+24804	Mecina Fondales	Granada	1
+24805	Ventas de Huelma	Granada	1
+24806	Villanueva de las Torres	Granada	1
+24807	Villanueva Mesía	Granada	1
+24808	Víznar	Granada	1
+24809	El Almendral	Granada	1
+24810	Zafarraya	Granada	1
+24811	La Zubia	Granada	1
+24812	Acula	Granada	1
+24813	Turón	Granada	1
+24814	Cherín	Granada	1
+24815	Jorairatar	Granada	1
+24816	Ugíjar	Granada	1
+24817	Mecina Alfahar	Granada	1
+24818	Nechite	Granada	1
+24819	Válor	Granada	1
+24820	Vélez-Benaudalla	Granada	1
+24821	Torvizcón	Granada	1
+24822	Trevélez	Granada	1
+24823	Salobreña	Granada	1
+24824	Santa Cruz del Comercio	Granada	1
+24825	Valenzuela	Granada	1
+24826	El Jau	Granada	1
+24827	Pedro Ruiz	Granada	1
+24828	Santa Fe	Granada	1
+24829	Soportújar	Granada	1
+24830	Alfornón	Granada	1
+24831	Sorvilán	Granada	1
+24832	Torre-Cardela	Granada	1
+24833	Rubite	Granada	1
+24834	Salar	Granada	1
+24835	La Caleta	Granada	1
+24836	Lobres	Granada	1
+24837	Bejarín	Granada	1
+24838	Purullena	Granada	1
+24839	Quéntar	Granada	1
+24840	Tocón (Quéntar)	Granada	1
+24841	Alhama de Granada	Granada	1
+24842	La Rábita	Granada	1
+24843	Albuñuelas	Granada	1
+24844	Aldeire	Granada	1
+24845	Alfacar	Granada	1
+24846	Algarinejo	Granada	1
+24847	La Viña	Granada	1
+24848	Fuentes de Cesna	Granada	1
+24849	Los Castillas	Granada	1
+24850	El Pozuelo	Granada	1
+24851	El Chaparral	Granada	1
+24852	Albondón	Granada	1
+24853	Albuñán	Granada	1
+24854	Albuñol	Granada	1
+24855	Agrón	Granada	1
+24856	Alamedilla	Granada	1
+24857	Albolote	Granada	1
+24858	Cazalilla	Jaén	1
+24859	Cazorla	Jaén	1
+24860	Cabra de Santo Cristo	Jaén	1
+24861	Arbuniel	Jaén	1
+24862	Cambil 'Don Eufrasio Martínez Galiano'	Jaén	1
+24863	Campillo de Arenas	Jaén	1
+24864	Canena	Jaén	1
+24865	Carboneros	Jaén	1
+24866	La Carolina 'Purísima Concepción'	Jaén	1
+24867	Baños de la Encina	Jaén	1
+24868	Arroyo del Ojanco	Jaén	1
+24869	Beas de Segura 'Virgen de la Paz'	Jaén	1
+24870	Cañada Catena	Jaén	1
+24871	Cuevas de Ambrosio	Jaén	1
+24872	Begíjar	Jaén	1
+24873	Bélmez de la Moraleda	Jaén	1
+24874	Benatae	Jaén	1
+24875	Arjonilla	Jaén	1
+24876	Arquillos	Jaén	1
+24877	Porrosillo	Jaén	1
+24878	Baeza	Jaén	1
+24879	Puente del Obispo	Jaén	1
+24880	La Yedra	Jaén	1
+24881	Bailén	Jaén	1
+24882	Valdés	Málaga	1
+24883	Mollina	Málaga	1
+24884	Monda	Málaga	1
+24885	Montejaque	Málaga	1
+24886	Maro	Málaga	1
+24887	Nerja	Málaga	1
+24888	Ojén	Málaga	1
+24889	Parauta	Málaga	1
+24890	La Campana (Nueva Andalucía)	Málaga	1
+24891	San Pedro de Alcántara	Málaga	1
+24892	Las Lagunas	Málaga	1
+24893	Mijas Pueblo	Málaga	1
+24894	La Cala	Málaga	1
+24895	Churriana	Málaga	1
+24896	Limonar	Málaga	1
+24897	Carranque	Málaga	1
+24898	Portada Alta	Málaga	1
+24899	Puerta Blanca	Málaga	1
+24900	Puerto de la Torre	Málaga	1
+24901	San Andrés-Torcal	Málaga	1
+24902	Perchel	Málaga	1
+24903	Miraflores de los Ángeles	Málaga	1
+24904	Tiro de Pichón	Málaga	1
+24905	La Luz (Los Girasoles)	Málaga	1
+24906	Cruz de Humilladero	Málaga	1
+24907	Huelin	Málaga	1
+24908	Nueva Málaga	Málaga	1
+24910	Capuchinos	Málaga	1
+24911	Trinidad 'Jesús Cautivo'	Málaga	1
+24912	Palma-Palmilla	Málaga	1
+24913	Victoria	Málaga	1
+24914	Ciudad Jardín (Guadalmedina)	Málaga	1
+24915	Delicias Málaga	Málaga	1
+24916	El Palo	Málaga	1
+24917	Olías	Málaga	1
+24918	Manilva	Málaga	1
+24919	San Luis de Sabinillas	Málaga	1
+24920	Leganitos	Málaga	1
+24921	Las Albarizas	Málaga	1
+24922	Las Chapas	Málaga	1
+24923	Alhaurín el Grande 'Dr. Francisco Burgos Casero'	Málaga	1
+24924	Alfarnate	Málaga	1
+24925	Alfarnatejo	Málaga	1
+24926	Algarrobo	Málaga	1
+24927	Algarrobo Costa	Málaga	1
+24928	Algatocín	Málaga	1
+24929	Alhaurín de la Torre. Don José Molina Díaz	Málaga	1
+24930	Alameda	Málaga	1
+24931	Alcaucín	Málaga	1
+24932	Villanueva del Trabuco	Málaga	1
+24933	Villanueva de Tapia	Málaga	1
+24934	Los Romanes	Málaga	1
+24935	Viñuela	Málaga	1
+24936	Yunquera	Málaga	1
+24937	La Carihuela	Málaga	1
+24938	San Miguel	Málaga	1
+24939	Chilches	Málaga	1
+24940	Torre del Mar	Málaga	1
+24941	Triana	Málaga	1
+24942	Vélez-Málaga Norte	Málaga	1
+24943	Vélez-Málaga Sur	Málaga	1
+24944	Villanueva de Algaidas	Málaga	1
+24945	Villanueva del Rosario	Málaga	1
+24946	El Morche	Málaga	1
+24947	Totalán	Málaga	1
+24948	Valle de Abdalajís	Málaga	1
+24949	Almayate Alto	Málaga	1
+24950	Benajarafe	Málaga	1
+24951	Cajiz	Málaga	1
+24952	Caleta de Vélez	Málaga	1
+24953	Corumbela	Málaga	1
+24954	Sayalonga	Málaga	1
+24955	Sedella	Málaga	1
+24956	Navahermosa	Málaga	1
+24957	Sierra de Yeguas	Málaga	1
+24958	Teba	Málaga	1
+24959	Tolox	Málaga	1
+24960	Torrox	Málaga	1
+24961	Pújerra	Málaga	1
+24962	Benagalbón	Málaga	1
+24963	Cala del Moral	Málaga	1
+24964	Rincón de la Victoria	Málaga	1
+24965	Riogordo	Málaga	1
+24966	Ronda-Norte	Málaga	1
+24967	Ronda-Sur 'Santa Bárbara'	Málaga	1
+24968	Montecorto	Málaga	1
+24969	Serrato	Málaga	1
+24970	Salares	Málaga	1
+24971	Alcolea del Rio	Sevilla	1
+24972	La Algaba	Sevilla	1
+24973	Las Navas	Sevilla	1
+24974	Olivares	Sevilla	1
+24975	Osuna	Sevilla	1
+24976	Puerto de la Encina	Sevilla	1
+24977	Maribáñez	Sevilla	1
+24978	Los Palacios 'Ntra. Sra. de las Nieves'	Sevilla	1
+24979	El Trobal	Sevilla	1
+24980	Palomares	Sevilla	1
+24981	Villaverde del Rio	Sevilla	1
+24982	El Viso del Alcor	Sevilla	1
+24983	Cañada del Rosal	Sevilla	1
+24984	Isla Mayor	Sevilla	1
+24985	El Cuervo	Sevilla	1
+24986	Valencina de la Concepción 'Practicante José Salas'	Sevilla	1
+24987	Villamanrique de la Condesa	Sevilla	1
+24988	Villanueva del Ariscal	Sevilla	1
+24989	Villanueva del Rio	Sevilla	1
+24990	Villanueva del Rio Y Minas	Sevilla	1
+24991	Villanueva de San Juan	Sevilla	1
+24992	El Palmar de Troya	Sevilla	1
+24993	Pinzón	Sevilla	1
+24994	El Torbiscal	Sevilla	1
+24995	Trajano	Sevilla	1
+24996	Utrera-Norte 'Príncipe de Asturias'	Sevilla	1
+24997	Utrera-Sur	Sevilla	1
+24998	Cerro del Hierro	Sevilla	1
+24999	San Nicolás del Puerto	Sevilla	1
+25000	Santiponce	Sevilla	1
+25001	El Saucejo	Sevilla	1
+25002	Bellavista	Sevilla	1
+25003	La Candelaria	Sevilla	1
+25004	Virgen de África	Sevilla	1
+25006	Las Letanías 'Dra. Inmaculada Vieira'	Sevilla	1
+25007	Alcosa 'Mercedes Navarro'	Sevilla	1
+25008	María Fuensanta Pérez Quirós	Sevilla	1
+25009	Cerro del Águila	Sevilla	1
+25010	El Cachorro	Sevilla	1
+25011	Mallén	Sevilla	1
+25012	La Plata	Sevilla	1
+25013	Puerta Este 'Dr. Pedro Vallina'	Sevilla	1
+25014	Polígono Norte	Sevilla	1
+25015	Polígono Sur	Sevilla	1
+25016	Pino Montano A	Sevilla	1
+25017	Los Bermejales	Sevilla	1
+25018	Pino Montano B	Sevilla	1
+25019	Pumarejo	Sevilla	1
+25020	San Jerónimo	Sevilla	1
+25021	El Juncal	Sevilla	1
+25022	El Porvenir	Sevilla	1
+25023	Marqués de Paradas	Sevilla	1
+25024	El Greco	Sevilla	1
+25025	Huerta Bachillera	Sevilla	1
+25026	Huerta del Rey	Sevilla	1
+25028	Esperanza Macarena	Sevilla	1
+25030	Torreblanca	Sevilla	1
+25032	Amante Laffón	Sevilla	1
+25033	Amate	Sevilla	1
+25034	San Pablo	Sevilla	1
+25035	Palmete	Sevilla	1
+25036	Valdezorras	Sevilla	1
+25037	Los Rosales	Sevilla	1
+25038	Tocina	Sevilla	1
+25039	Tomares	Sevilla	1
+25040	Umbrete	Sevilla	1
+25041	Guadalema de los Quinteros	Sevilla	1
+25042	El Ronquillo	Sevilla	1
+25043	El Rubio	Sevilla	1
+25044	Salteras	Sevilla	1
+25045	Nuestra Señora de la Paz	Sevilla	1
+25046	Sanlúcar la Mayor	Sevilla	1
+25047	La Rinconada	Sevilla	1
+25048	San José de la Rinconada-Los Carteros	Sevilla	1
+25049	La Roda de Andalucía	Sevilla	1
+25050	Paradas	Sevilla	1
+25051	Pedrera	Sevilla	1
+25052	El Pedroso	Sevilla	1
+25053	Peñaflor	Sevilla	1
+25054	Pilas	Sevilla	1
+25055	Pruna	Sevilla	1
+25056	La Puebla de Cazalla	Sevilla	1
+25057	Puebla de los Infantes	Sevilla	1
+25058	Puebla del Rio	Sevilla	1
+25059	Real de la Jara	Sevilla	1
+25227	Marchena	Jaén	1
+25230	Madre de Dios	Cádiz	1
+25236	Sta. Mª de Trassierra	Córdoba	1
+25237	Gonzalo de Bilbao	Sevilla	1
+25239	Poblado de San Julián	Jaén	1
+25240	Roquetas Sur	Almería	1
+25241	El Ejido Sur	Almería	1
+25242	El Rancho	Sevilla	1
+25248	Llano del Espino	Almería	1
+25249	Llano de los Olleres	Almería	1
+25250	Rambla de Oria	Almería	1
+25251	Darrícal	Almería	1
+25252	El Chive	Almería	1
+25253	Hirmes	Almería	1
+25254	El Marchal	Almería	1
+25255	La Isleta del Moro	Almería	1
+25256	El Pocico	Almería	1
+25257	Rambla Aljibe	Almería	1
+25258	Mojácar Playa	Almería	1
+25259	La Cañada de Cañepla	Almería	1
+25260	La Fuensanta	Almería	1
+25261	Rambla Honda	Almería	1
+25262	El Pilar	Almería	1
+25263	El Saetí	Almería	1
+25264	Poblado Doña Blanca	Cádiz	1
+25265	El Villar	Córdoba	1
+25266	Hinojosa del Duque	Córdoba	1
+25267	Las Juntas	Granada	1
+25268	Las Viñas	Granada	1
+25269	Torrecuevas	Granada	1
+25270	La Peza	Granada	1
+25271	La Huertezuela	Granada	1
+25273	Trujala	Jaén	1
+25277	San Amador	Jaén	1
+25329	Valdelagrana	Cádiz	1
+25330	Casa del Mar	Cádiz	1
+25340	Cantarranas	Cádiz	1
+25341	El Palmar	Cádiz	1
+25342	S. José de Malcocinado-Los Badalejos	Cádiz	1
+25347	La Ribera	Huelva	1
+25348	Barriada de Santiago (Baza)	Granada	1
+25349	La Fernandina	Jaén	1
+25350	Venta del Pobre	Almería	1
+25351	Alquife	Granada	1
+25352	Isla Chica	Huelva	1
+25353	Ribera Alta	Jaén	1
+25354	Belén	Jaén	1
+25355	La Campana	Sevilla	1
+25356	Chite	Granada	1
+25357	Murchas	Granada	1
+25358	Ronda Histórica	Sevilla	1
+25359	Poblado Alfonso	Sevilla	1
+25360	Venta del Charco	Córdoba	1
+25361	Alto la Mesa	Huelva	1
+25362	Los Olivos	Granada	1
+25363	Poniente	Córdoba	1
+25389	La Ina	Cádiz	1
+25390	Mesas de Asta	Cádiz	1
+25391	Los Montecillos	Sevilla	1
+25392	Las Portadas	Sevilla	1
+25393	Sierra Elvira	Granada	1
+25394	Los Olivos	Granada	1
+25397	Collejares	Jaén	1
+25398	Varadero-Santa Adela	Granada	1
+25399	Casa del Mar Almería	Almería	1
+25400	El Solanillo	Almería	1
+25402	Lucena II	Córdoba	1
+25403	Los Carvajales	Málaga	1
+25404	La Colonia	Granada	1
+25405	Torrequebrada	Málaga	1
+25407	Tomasa Morales	Cádiz	1
+25408	La Lobilla	Málaga	1
+25409	Carretera de la Sierra	Granada	1
+25410	Realejo	Granada	1
+25411	Úbeda Este	Jaén	1
+25412	San Fernando Este II	Cádiz	1
+25413	Venta de Agramaderos	Jaén	1
+25414	Hortichuela	Jaén	1
+25415	San José Escobar	Jaén	1
+25416	Puente Genil II	Córdoba	1
+25417	Alcalá la Real Norte	Jaén	1
+25418	Lucano	Córdoba	1
+25419	El Portil	Huelva	1
+25424	Los Llanos de Don Juan	Córdoba	1
+25425	Barrio Archilla-Cañada Sebastiana	Almería	1
+25426	La Envía	Almería	1
+25427	Los Chapatales	Sevilla	1
+25428	Arroyo Frio	Jaén	1
+25429	Aeropuerto Viejo	Sevilla	1
+25430	Barbate I (Anexo Materno Infantil)	Cádiz	1
+25431	Rinconcillo	Cádiz	1
+25432	Virgen de la Estrella II	Sevilla	1
+25433	Colonia Santa Inés-Teatinos	Málaga	1
+25434	Alfaix	Almería	1
+25435	El Consul	Málaga	1
+25454	Las Palmeritas	Sevilla	1
+25455	Fígares	Granada	1
+25456	Las Veredas	Huelva	1
+25457	Castillo de Castellar	Cádiz	1
+25458	Casines	Cádiz	1
+25459	El Mirador	Sevilla	1
+25472	Alborán	Almería	1
+25474	La Roca	Málaga	1
+25475	Atalaya	Málaga	1
+25478	Carlinda	Málaga	1
+25479	Puerto Rey	Almería	1
+25480	Trujillos	Granada	1
+25481	Antequera Estación	Málaga	1
+25482	Acebuche	Granada	1
+25483	El Arroyo (próxima apertura)	Cádiz	1
+25484	San Luis	Sevilla	1
+25485	Alamillo	Sevilla	1
+25486	El Santiscal	Cádiz	1
+25487	La Cimada-Los Prados	Málaga	1
+25515	Cuenca	Jaén	1
+25518	SR ORIENTAL	Málaga	1
+25519	SR OCCIDENTAL	Sevilla	1
+25534	LAS NACIONES (Apertura prevista 04/2010)	Sevilla	1
+25544	"Linares D ""Arrayanes"" (prox. apertura)"	Jaén	1
+25545	Aeropuerto (Apertura prev 26-4-10)	Córdoba	1
+25546	Costacabana (Próxima apertura)	Almería	1

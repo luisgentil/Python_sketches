@@ -1,0 +1,9 @@
+Id Centro -5	Municipio	Provincia	Total
+25487	La Cimada-Los Prados	Málaga	1
+25515	Cuenca	Jaén	1
+25518	SR ORIENTAL	Málaga	1
+25519	SR OCCIDENTAL	Sevilla	1
+25534	LAS NACIONES (Apertura prevista 04/2010)	Sevilla	1
+25544	"Linares D ""Arrayanes"" (prox. apertura)"	Jaén	1
+25545	Aeropuerto (Apertura prev 26-4-10)	Córdoba	1
+25546	Costacabana (Próxima apertura)	Almería	1
